@@ -1,4 +1,5 @@
 import { ref } from "vue";
+import alldata from "@/newdb.json";
 
 const nodes = ref([]);
 const quotes = ref([]);
@@ -6,40 +7,16 @@ const edges = ref([]);
 const nodesLoading = ref(false);
 
 function fetchData() {
-  fetchNodes();
-  fetchEdges();
-  fetchQuotes();
-}
-
-const fetchNodes = async () => {
   nodesLoading.value = true;
-  try {
-    const response = await fetch("http://localhost:3001/nodes");
-    nodes.value = await response.json();
-  } finally {
-    nodesLoading.value = false;
 
-    console.log("got nodes");
-  }
-};
+  console.log('fetch data');
+  nodes.value = alldata.nodes;
+  edges.value = alldata.edges;
+  quotes.value = alldata.quotes;
 
-const fetchQuotes = async () => {
-  try {
-    const response = await fetch("http://localhost:3001/quotes");
-    quotes.value = await response.json();
-  } finally {
-    console.log("got quotes");
-  }
-};
+  nodesLoading.value = false;
 
-const fetchEdges = async () => {
-  try {
-    const response = await fetch("http://localhost:3001/edges");
-    edges.value = await response.json();
-  } finally {
-    console.log("got edges");
-  }
-};
+}
 
 export default function useNodes() {
   return {
