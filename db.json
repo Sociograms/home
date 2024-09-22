@@ -1,0 +1,2534 @@
+{
+  "edges": [
+    { "color": "#e5c494", "from": "Airdrop_Airdrop", "to": "Colleagues_Airdrop", "value": 1 },
+    { "color": "#e5c494", "from": "Airdrop_Airdrop", "to": "Friends_Airdrop", "value": 2 },
+    { "color": "#e5c494", "from": "Airdrop_Airdrop", "to": "Partner_Airdrop", "value": 1 },
+    { "color": "#ffd92f", "from": "Airdrop_Airdrop", "to": "Me", "value": 2 },
+    { "color": "#e5c494", "from": "BeReal_BeReal", "to": "Close friends_BeReal", "value": 1 },
+    { "color": "#b3b3b3", "from": "BeReal_BeReal", "to": "Everyday photos_BeReal", "value": 1 },
+    { "color": "#ffd92f", "from": "BeReal_BeReal", "to": "Me", "value": 1 },
+    {
+      "color": "#e5c494",
+      "from": "Camera Roll_Camera Roll",
+      "to": "Friends_Camera Roll",
+      "value": 1
+    },
+    {
+      "color": "#b3b3b3",
+      "from": "Camera Roll_Camera Roll",
+      "to": "Holidays_Camera Roll",
+      "value": 1
+    },
+    {
+      "color": "#b3b3b3",
+      "from": "Camera Roll_Camera Roll",
+      "to": "Individual interests_Camera Roll",
+      "value": 1
+    },
+    {
+      "color": "#b3b3b3",
+      "from": "Camera Roll_Camera Roll",
+      "to": "Meals_Camera Roll",
+      "value": 1
+    },
+    {
+      "color": "#b3b3b3",
+      "from": "Camera Roll_Camera Roll",
+      "to": "Memes_Camera Roll",
+      "value": 1
+    },
+    {
+      "color": "#b3b3b3",
+      "from": "Camera Roll_Camera Roll",
+      "to": "Nice memories_Camera Roll",
+      "value": 1
+    },
+    {
+      "color": "#b3b3b3",
+      "from": "Camera Roll_Camera Roll",
+      "to": "Note-taking_Camera Roll",
+      "value": 2
+    },
+    {
+      "color": "#b3b3b3",
+      "from": "Camera Roll_Camera Roll",
+      "to": "Screenshots_Camera Roll",
+      "value": 1
+    },
+    {
+      "color": "#b3b3b3",
+      "from": "Camera Roll_Camera Roll",
+      "to": "Work, projects_Camera Roll",
+      "value": 1
+    },
+    { "color": "#ffd92f", "from": "Camera Roll_Camera Roll", "to": "Me", "value": 3 },
+    {
+      "color": "#b3b3b3",
+      "from": "Children_SMS Text",
+      "to": "Everyday activities_SMS Text",
+      "value": 1
+    },
+    { "color": "#b3b3b3", "from": "Children_SMS Text", "to": "Scenery_SMS Text", "value": 1 },
+    { "color": "#e5c494", "from": "Children_SMS Text", "to": "SMS Text_SMS Text", "value": 1 },
+    {
+      "color": "#b3b3b3",
+      "from": "Children_WhatsApp",
+      "to": "Shared experience_WhatsApp",
+      "value": 1
+    },
+    { "color": "#e5c494", "from": "Children_WhatsApp", "to": "WhatsApp_WhatsApp", "value": 1 },
+    {
+      "color": "#b3b3b3",
+      "from": "Close friends_Google Drive",
+      "to": "Shared experience_Google Drive",
+      "value": 1
+    },
+    {
+      "color": "#b3b3b3",
+      "from": "Close friends_Google Drive",
+      "to": "Social photos_Google Drive",
+      "value": 1
+    },
+    {
+      "color": "#e5c494",
+      "from": "Close friends_Google Drive",
+      "to": "Google Drive_Google Drive",
+      "value": 1
+    },
+    {
+      "color": "#b3b3b3",
+      "from": "Close friends_Instagram",
+      "to": "Individual interests_Instagram",
+      "value": 1
+    },
+    {
+      "color": "#e5c494",
+      "from": "Close friends_Instagram",
+      "to": "Instagram_Instagram",
+      "value": 2
+    },
+    { "color": "#b3b3b3", "from": "Close friends_Print", "to": "Family photos_Print", "value": 1 },
+    { "color": "#e5c494", "from": "Close friends_Print", "to": "Print_Print", "value": 1 },
+    {
+      "color": "#b3b3b3",
+      "from": "Close friends_SMS Text",
+      "to": "Everyday activities_SMS Text",
+      "value": 1
+    },
+    { "color": "#b3b3b3", "from": "Close friends_SMS Text", "to": "Humour_SMS Text", "value": 1 },
+    {
+      "color": "#b3b3b3",
+      "from": "Close friends_SMS Text",
+      "to": "Important events _SMS Text",
+      "value": 1
+    },
+    {
+      "color": "#b3b3b3",
+      "from": "Close friends_SMS Text",
+      "to": "Life updates_SMS Text",
+      "value": 1
+    },
+    {
+      "color": "#b3b3b3",
+      "from": "Close friends_SMS Text",
+      "to": "Shared Interests_SMS Text",
+      "value": 1
+    },
+    { "color": "#e5c494", "from": "Close friends_SMS Text", "to": "SMS Text_SMS Text", "value": 3 },
+    {
+      "color": "#b3b3b3",
+      "from": "Close friends_WhatsApp",
+      "to": "Family photos_WhatsApp",
+      "value": 1
+    },
+    { "color": "#b3b3b3", "from": "Close friends_WhatsApp", "to": "Holidays_WhatsApp", "value": 1 },
+    { "color": "#e5c494", "from": "Close friends_WhatsApp", "to": "WhatsApp_WhatsApp", "value": 1 },
+    {
+      "color": "#b3b3b3",
+      "from": "Collaborators_Dropbox",
+      "to": "Work, projects_Dropbox",
+      "value": 1
+    },
+    { "color": "#e5c494", "from": "Collaborators_Dropbox", "to": "Dropbox_Dropbox", "value": 2 },
+    { "color": "#b3b3b3", "from": "Collaborators_Email", "to": "Activism_Email", "value": 1 },
+    { "color": "#b3b3b3", "from": "Collaborators_Email", "to": "Old photos_Email", "value": 1 },
+    {
+      "color": "#b3b3b3",
+      "from": "Collaborators_Email",
+      "to": "Shared experience_Email",
+      "value": 1
+    },
+    { "color": "#b3b3b3", "from": "Collaborators_Email", "to": "Work, projects_Email", "value": 1 },
+    { "color": "#e5c494", "from": "Collaborators_Email", "to": "Email_Email", "value": 3 },
+    {
+      "color": "#b3b3b3",
+      "from": "Collaborators_Instagram",
+      "to": "Activism_Instagram",
+      "value": 1
+    },
+    {
+      "color": "#b3b3b3",
+      "from": "Collaborators_Instagram",
+      "to": "Work, projects_Instagram",
+      "value": 1
+    },
+    {
+      "color": "#e5c494",
+      "from": "Collaborators_Instagram",
+      "to": "Instagram_Instagram",
+      "value": 2
+    },
+    { "color": "#b3b3b3", "from": "Collaborators_Print", "to": "Gift_Print", "value": 1 },
+    { "color": "#e5c494", "from": "Collaborators_Print", "to": "Print_Print", "value": 1 },
+    {
+      "color": "#b3b3b3",
+      "from": "Colleagues_Airdrop",
+      "to": "Work, projects_Airdrop",
+      "value": 1
+    },
+    {
+      "color": "#b3b3b3",
+      "from": "Colleagues_Facebook",
+      "to": "Work, projects_Facebook",
+      "value": 1
+    },
+    { "color": "#e5c494", "from": "Colleagues_Facebook", "to": "Facebook_Facebook", "value": 1 },
+    {
+      "color": "#b3b3b3",
+      "from": "Colleagues_Instagram",
+      "to": "Work, projects_Instagram",
+      "value": 1
+    },
+    { "color": "#e5c494", "from": "Colleagues_Instagram", "to": "Instagram_Instagram", "value": 1 },
+    {
+      "color": "#b3b3b3",
+      "from": "Colleagues_SMS Text",
+      "to": "Landscape/architecture_SMS Text",
+      "value": 1
+    },
+    {
+      "color": "#b3b3b3",
+      "from": "Colleagues_SMS Text",
+      "to": "Shared experience_SMS Text",
+      "value": 1
+    },
+    {
+      "color": "#b3b3b3",
+      "from": "Colleagues_SMS Text",
+      "to": "Work, projects_SMS Text",
+      "value": 2
+    },
+    { "color": "#e5c494", "from": "Colleagues_SMS Text", "to": "SMS Text_SMS Text", "value": 4 },
+    { "color": "#b3b3b3", "from": "Colleagues_Slack", "to": "Shared experience_Slack", "value": 1 },
+    { "color": "#b3b3b3", "from": "Colleagues_Slack", "to": "Work, projects_Slack", "value": 1 },
+    { "color": "#e5c494", "from": "Colleagues_Slack", "to": "Slack_Slack", "value": 1 },
+    {
+      "color": "#b3b3b3",
+      "from": "Colleagues_WhatsApp",
+      "to": "Work, projects_WhatsApp",
+      "value": 1
+    },
+    { "color": "#e5c494", "from": "Colleagues_WhatsApp", "to": "WhatsApp_WhatsApp", "value": 1 },
+    {
+      "color": "#e5c494",
+      "from": "DADAABC_DADAABC",
+      "to": "Learning community_DADAABC",
+      "value": 1
+    },
+    { "color": "#ffd92f", "from": "DADAABC_DADAABC", "to": "Me", "value": 1 },
+    { "color": "#b3b3b3", "from": "Dating app_Dating app", "to": "Selfie_Dating app", "value": 1 },
+    { "color": "#ffd92f", "from": "Dating app_Dating app", "to": "Me", "value": 1 },
+    { "color": "#e5c494", "from": "Discord_Discord", "to": "Friends_Discord", "value": 1 },
+    { "color": "#ffd92f", "from": "Discord_Discord", "to": "Me", "value": 1 },
+    { "color": "#e5c494", "from": "Dropbox_Dropbox", "to": "Colleagues_Dropbox", "value": 1 },
+    { "color": "#b3b3b3", "from": "Dropbox_Dropbox", "to": "Holidays_Dropbox", "value": 1 },
+    { "color": "#b3b3b3", "from": "Dropbox_Dropbox", "to": "Work, projects_Dropbox", "value": 1 },
+    { "color": "#ffd92f", "from": "Dropbox_Dropbox", "to": "Me", "value": 3 },
+    { "color": "#e5c494", "from": "Email_Email", "to": "Colleagues_Email", "value": 1 },
+    { "color": "#e5c494", "from": "Email_Email", "to": "Employee_Email", "value": 2 },
+    { "color": "#e5c494", "from": "Email_Email", "to": "Family_Email", "value": 1 },
+    { "color": "#e5c494", "from": "Email_Email", "to": "Friends_Email", "value": 2 },
+    { "color": "#b3b3b3", "from": "Email_Email", "to": "Note-taking_Email", "value": 2 },
+    { "color": "#e5c494", "from": "Email_Email", "to": "Overseas friends_Email", "value": 1 },
+    { "color": "#b3b3b3", "from": "Email_Email", "to": "Work, projects_Email", "value": 1 },
+    { "color": "#ffd92f", "from": "Email_Email", "to": "Me", "value": 8 },
+    { "color": "#b3b3b3", "from": "Employee_Email", "to": "Note-taking_Email", "value": 2 },
+    {
+      "color": "#b3b3b3",
+      "from": "Ex-partner_WhatsApp",
+      "to": "Family photos_WhatsApp",
+      "value": 1
+    },
+    { "color": "#e5c494", "from": "Ex-partner_WhatsApp", "to": "WhatsApp_WhatsApp", "value": 1 },
+    { "color": "#e5c494", "from": "Facebook_Facebook", "to": "Collaborators_Facebook", "value": 1 },
+    { "color": "#e5c494", "from": "Facebook_Facebook", "to": "Family_Facebook", "value": 2 },
+    { "color": "#e5c494", "from": "Facebook_Facebook", "to": "Friends_Facebook", "value": 3 },
+    { "color": "#b3b3b3", "from": "Facebook_Facebook", "to": "Old photos_Facebook", "value": 1 },
+    { "color": "#e5c494", "from": "Facebook_Facebook", "to": "Partner_Facebook", "value": 1 },
+    {
+      "color": "#b3b3b3",
+      "from": "Facebook_Facebook",
+      "to": "Work, projects_Facebook",
+      "value": 1
+    },
+    { "color": "#ffd92f", "from": "Facebook_Facebook", "to": "Me", "value": 4 },
+    {
+      "color": "#b3b3b3",
+      "from": "Facebook Messenger_Facebook Messenger",
+      "to": "Aesthetic photos_Facebook Messenger",
+      "value": 1
+    },
+    {
+      "color": "#b3b3b3",
+      "from": "Facebook Messenger_Facebook Messenger",
+      "to": "Animals/pets_Facebook Messenger",
+      "value": 1
+    },
+    {
+      "color": "#e5c494",
+      "from": "Facebook Messenger_Facebook Messenger",
+      "to": "Collaborators_Facebook Messenger",
+      "value": 1
+    },
+    {
+      "color": "#e5c494",
+      "from": "Facebook Messenger_Facebook Messenger",
+      "to": "Family_Facebook Messenger",
+      "value": 5
+    },
+    {
+      "color": "#e5c494",
+      "from": "Facebook Messenger_Facebook Messenger",
+      "to": "Friends_Facebook Messenger",
+      "value": 8
+    },
+    {
+      "color": "#e5c494",
+      "from": "Facebook Messenger_Facebook Messenger",
+      "to": "Group chat_Facebook Messenger",
+      "value": 1
+    },
+    {
+      "color": "#b3b3b3",
+      "from": "Facebook Messenger_Facebook Messenger",
+      "to": "Memes_Facebook Messenger",
+      "value": 1
+    },
+    {
+      "color": "#e5c494",
+      "from": "Facebook Messenger_Facebook Messenger",
+      "to": "Partner_Facebook Messenger",
+      "value": 1
+    },
+    {
+      "color": "#b3b3b3",
+      "from": "Facebook Messenger_Facebook Messenger",
+      "to": "Selfie_Facebook Messenger",
+      "value": 1
+    },
+    {
+      "color": "#e5c494",
+      "from": "Facebook Messenger_Facebook Messenger",
+      "to": "Work/business/customers_Facebook Messenger",
+      "value": 2
+    },
+    {
+      "color": "#ffd92f",
+      "from": "Facebook Messenger_Facebook Messenger",
+      "to": "Me",
+      "value": 11
+    },
+    { "color": "#b3b3b3", "from": "Family_Email", "to": "Family photos_Email", "value": 1 },
+    { "color": "#b3b3b3", "from": "Family_Email", "to": "Scenery_Email", "value": 1 },
+    { "color": "#b3b3b3", "from": "Family_Email", "to": "Shared Interests_Email", "value": 1 },
+    { "color": "#b3b3b3", "from": "Family_Facebook", "to": "Selfie_Facebook", "value": 1 },
+    {
+      "color": "#b3b3b3",
+      "from": "Family_Facebook Messenger",
+      "to": "Family photos_Facebook Messenger",
+      "value": 1
+    },
+    { "color": "#b3b3b3", "from": "Family_Instagram", "to": "Holidays_Instagram", "value": 1 },
+    {
+      "color": "#b3b3b3",
+      "from": "Family_Instagram",
+      "to": "Individual interests_Instagram",
+      "value": 1
+    },
+    { "color": "#b3b3b3", "from": "Family_Instagram", "to": "Old photos_Instagram", "value": 1 },
+    { "color": "#b3b3b3", "from": "Family_Instagram", "to": "Social photos_Instagram", "value": 1 },
+    { "color": "#e5c494", "from": "Family_Instagram", "to": "Instagram_Instagram", "value": 5 },
+    { "color": "#b3b3b3", "from": "Family_Print", "to": "Family photos_Print", "value": 2 },
+    { "color": "#b3b3b3", "from": "Family_Print", "to": "Gift_Print", "value": 1 },
+    { "color": "#b3b3b3", "from": "Family_Print", "to": "Homemade cards_Print", "value": 1 },
+    { "color": "#b3b3b3", "from": "Family_Print", "to": "Important events _Print", "value": 1 },
+    { "color": "#b3b3b3", "from": "Family_Print", "to": "People_Print", "value": 1 },
+    { "color": "#e5c494", "from": "Family_Print", "to": "Print_Print", "value": 6 },
+    { "color": "#b3b3b3", "from": "Family_SMS Text", "to": "Animals/pets_SMS Text", "value": 3 },
+    {
+      "color": "#b3b3b3",
+      "from": "Family_SMS Text",
+      "to": "Everyday activities_SMS Text",
+      "value": 2
+    },
+    { "color": "#b3b3b3", "from": "Family_SMS Text", "to": "Family photos_SMS Text", "value": 3 },
+    { "color": "#b3b3b3", "from": "Family_SMS Text", "to": "Holidays_SMS Text", "value": 1 },
+    { "color": "#b3b3b3", "from": "Family_SMS Text", "to": "Humour_SMS Text", "value": 1 },
+    { "color": "#b3b3b3", "from": "Family_SMS Text", "to": "Note-taking_SMS Text", "value": 1 },
+    { "color": "#b3b3b3", "from": "Family_SMS Text", "to": "Old photos_SMS Text", "value": 1 },
+    { "color": "#b3b3b3", "from": "Family_SMS Text", "to": "People_SMS Text", "value": 1 },
+    { "color": "#b3b3b3", "from": "Family_SMS Text", "to": "Scenery_SMS Text", "value": 1 },
+    { "color": "#b3b3b3", "from": "Family_SMS Text", "to": "Selfie_SMS Text", "value": 1 },
+    {
+      "color": "#b3b3b3",
+      "from": "Family_SMS Text",
+      "to": "Shared experience_SMS Text",
+      "value": 2
+    },
+    { "color": "#b3b3b3", "from": "Family_SMS Text", "to": "Work, projects_SMS Text", "value": 1 },
+    { "color": "#e5c494", "from": "Family_SMS Text", "to": "SMS Text_SMS Text", "value": 15 },
+    {
+      "color": "#b3b3b3",
+      "from": "Family_Secondary Instagram account",
+      "to": "Family photos_Secondary Instagram account",
+      "value": 1
+    },
+    {
+      "color": "#e5c494",
+      "from": "Family_Secondary Instagram account",
+      "to": "Secondary Instagram account_Secondary Instagram account",
+      "value": 1
+    },
+    {
+      "color": "#b3b3b3",
+      "from": "Family_WhatsApp",
+      "to": "Everyday activities_WhatsApp",
+      "value": 1
+    },
+    { "color": "#b3b3b3", "from": "Family_WhatsApp", "to": "Family photos_WhatsApp", "value": 3 },
+    { "color": "#b3b3b3", "from": "Family_WhatsApp", "to": "Note-taking_WhatsApp", "value": 1 },
+    { "color": "#b3b3b3", "from": "Family_WhatsApp", "to": "Selfie_WhatsApp", "value": 1 },
+    { "color": "#b3b3b3", "from": "Family_WhatsApp", "to": "Social photos_WhatsApp", "value": 1 },
+    { "color": "#e5c494", "from": "Family_WhatsApp", "to": "WhatsApp_WhatsApp", "value": 10 },
+    {
+      "color": "#b3b3b3",
+      "from": "Friends_Airdrop",
+      "to": "Important events _Airdrop",
+      "value": 1
+    },
+    {
+      "color": "#b3b3b3",
+      "from": "Friends_Airdrop",
+      "to": "Shared experience_Airdrop",
+      "value": 1
+    },
+    { "color": "#b3b3b3", "from": "Friends_Airdrop", "to": "Social photos_Airdrop", "value": 1 },
+    { "color": "#b3b3b3", "from": "Friends_Discord", "to": "Memes_Discord", "value": 1 },
+    { "color": "#b3b3b3", "from": "Friends_Discord", "to": "Selfie_Discord", "value": 1 },
+    { "color": "#b3b3b3", "from": "Friends_Discord", "to": "Social photos_Discord", "value": 1 },
+    { "color": "#b3b3b3", "from": "Friends_Email", "to": "Important events _Email", "value": 1 },
+    { "color": "#b3b3b3", "from": "Friends_Email", "to": "Life updates_Email", "value": 1 },
+    { "color": "#b3b3b3", "from": "Friends_Email", "to": "Scenery_Email", "value": 1 },
+    { "color": "#b3b3b3", "from": "Friends_Email", "to": "Shared experience_Email", "value": 1 },
+    {
+      "color": "#b3b3b3",
+      "from": "Friends_Facebook",
+      "to": "Photo-worthy moments_Facebook",
+      "value": 1
+    },
+    { "color": "#b3b3b3", "from": "Friends_Facebook", "to": "Selfie_Facebook", "value": 1 },
+    {
+      "color": "#b3b3b3",
+      "from": "Friends_Facebook Messenger",
+      "to": "Animals/pets_Facebook Messenger",
+      "value": 1
+    },
+    {
+      "color": "#b3b3b3",
+      "from": "Friends_Facebook Messenger",
+      "to": "Everyday activities_Facebook Messenger",
+      "value": 1
+    },
+    {
+      "color": "#b3b3b3",
+      "from": "Friends_Facebook Messenger",
+      "to": "Family photos_Facebook Messenger",
+      "value": 1
+    },
+    {
+      "color": "#b3b3b3",
+      "from": "Friends_Facebook Messenger",
+      "to": "Humour_Facebook Messenger",
+      "value": 1
+    },
+    {
+      "color": "#b3b3b3",
+      "from": "Friends_Facebook Messenger",
+      "to": "Memes_Facebook Messenger",
+      "value": 1
+    },
+    {
+      "color": "#b3b3b3",
+      "from": "Friends_Facebook Messenger",
+      "to": "Note-taking_Facebook Messenger",
+      "value": 1
+    },
+    {
+      "color": "#b3b3b3",
+      "from": "Friends_Facebook Messenger",
+      "to": "Old photos_Facebook Messenger",
+      "value": 1
+    },
+    {
+      "color": "#b3b3b3",
+      "from": "Friends_Facebook Messenger",
+      "to": "Screenshots_Facebook Messenger",
+      "value": 1
+    },
+    {
+      "color": "#b3b3b3",
+      "from": "Friends_Facebook Messenger",
+      "to": "Social photos_Facebook Messenger",
+      "value": 2
+    },
+    {
+      "color": "#b3b3b3",
+      "from": "Friends_Hardrive storage",
+      "to": "Old photos_Hardrive storage",
+      "value": 1
+    },
+    {
+      "color": "#b3b3b3",
+      "from": "Friends_Hardrive storage",
+      "to": "Shared experience_Hardrive storage",
+      "value": 1
+    },
+    {
+      "color": "#e5c494",
+      "from": "Friends_Hardrive storage",
+      "to": "Hardrive storage_Hardrive storage",
+      "value": 1
+    },
+    { "color": "#b3b3b3", "from": "Friends_Instagram", "to": "Activism_Instagram", "value": 1 },
+    { "color": "#b3b3b3", "from": "Friends_Instagram", "to": "Animals/pets_Instagram", "value": 1 },
+    {
+      "color": "#b3b3b3",
+      "from": "Friends_Instagram",
+      "to": "Everyday activities_Instagram",
+      "value": 1
+    },
+    {
+      "color": "#b3b3b3",
+      "from": "Friends_Instagram",
+      "to": "Family photos_Instagram",
+      "value": 2
+    },
+    { "color": "#b3b3b3", "from": "Friends_Instagram", "to": "Holidays_Instagram", "value": 2 },
+    { "color": "#b3b3b3", "from": "Friends_Instagram", "to": "Meals_Instagram", "value": 2 },
+    {
+      "color": "#b3b3b3",
+      "from": "Friends_Instagram",
+      "to": "Photo-worthy moments_Instagram",
+      "value": 2
+    },
+    { "color": "#b3b3b3", "from": "Friends_Instagram", "to": "Scenery_Instagram", "value": 1 },
+    { "color": "#b3b3b3", "from": "Friends_Instagram", "to": "Selfie_Instagram", "value": 1 },
+    {
+      "color": "#b3b3b3",
+      "from": "Friends_Instagram",
+      "to": "Social photos_Instagram",
+      "value": 4
+    },
+    {
+      "color": "#b3b3b3",
+      "from": "Friends_Instagram",
+      "to": "Work, projects_Instagram",
+      "value": 1
+    },
+    { "color": "#e5c494", "from": "Friends_Instagram", "to": "Instagram_Instagram", "value": 7 },
+    {
+      "color": "#e5c494",
+      "from": "Friends_Instagram",
+      "to": "Instagram Stories_Instagram",
+      "value": 1
+    },
+    { "color": "#b3b3b3", "from": "Friends_Print", "to": "Gift_Print", "value": 1 },
+    { "color": "#b3b3b3", "from": "Friends_Print", "to": "Homemade cards_Print", "value": 1 },
+    { "color": "#e5c494", "from": "Friends_Print", "to": "Print_Print", "value": 2 },
+    { "color": "#b3b3b3", "from": "Friends_SMS Text", "to": "Animals/pets_SMS Text", "value": 1 },
+    {
+      "color": "#b3b3b3",
+      "from": "Friends_SMS Text",
+      "to": "Everyday activities_SMS Text",
+      "value": 1
+    },
+    { "color": "#b3b3b3", "from": "Friends_SMS Text", "to": "Family photos_SMS Text", "value": 1 },
+    {
+      "color": "#b3b3b3",
+      "from": "Friends_SMS Text",
+      "to": "Fun/funny photos_SMS Text",
+      "value": 1
+    },
+    { "color": "#b3b3b3", "from": "Friends_SMS Text", "to": "Humour_SMS Text", "value": 2 },
+    { "color": "#b3b3b3", "from": "Friends_SMS Text", "to": "Meals_SMS Text", "value": 1 },
+    { "color": "#b3b3b3", "from": "Friends_SMS Text", "to": "Memes_SMS Text", "value": 3 },
+    { "color": "#b3b3b3", "from": "Friends_SMS Text", "to": "Note-taking_SMS Text", "value": 1 },
+    { "color": "#b3b3b3", "from": "Friends_SMS Text", "to": "Plants_SMS Text", "value": 1 },
+    { "color": "#b3b3b3", "from": "Friends_SMS Text", "to": "Screenshots_SMS Text", "value": 1 },
+    {
+      "color": "#b3b3b3",
+      "from": "Friends_SMS Text",
+      "to": "Shared Interests_SMS Text",
+      "value": 2
+    },
+    {
+      "color": "#b3b3b3",
+      "from": "Friends_SMS Text",
+      "to": "Shared experience_SMS Text",
+      "value": 2
+    },
+    { "color": "#b3b3b3", "from": "Friends_SMS Text", "to": "Social photos_SMS Text", "value": 2 },
+    { "color": "#e5c494", "from": "Friends_SMS Text", "to": "SMS Text_SMS Text", "value": 15 },
+    { "color": "#b3b3b3", "from": "Friends_Snapchat", "to": "Family photos_Snapchat", "value": 1 },
+    {
+      "color": "#b3b3b3",
+      "from": "Friends_Snapchat",
+      "to": "Fun/funny photos_Snapchat",
+      "value": 1
+    },
+    { "color": "#e5c494", "from": "Friends_Snapchat", "to": "Snapchat_Snapchat", "value": 2 },
+    { "color": "#b3b3b3", "from": "Friends_WhatsApp", "to": "Scenery_WhatsApp", "value": 1 },
+    { "color": "#b3b3b3", "from": "Friends_WhatsApp", "to": "Social photos_WhatsApp", "value": 1 },
+    { "color": "#e5c494", "from": "Friends_WhatsApp", "to": "WhatsApp_WhatsApp", "value": 4 },
+    {
+      "color": "#e5c494",
+      "from": "Google Drive_Google Drive",
+      "to": "Colleagues_Google Drive",
+      "value": 1
+    },
+    {
+      "color": "#e5c494",
+      "from": "Google Drive_Google Drive",
+      "to": "Friends_Google Drive",
+      "value": 1
+    },
+    { "color": "#ffd92f", "from": "Google Drive_Google Drive", "to": "Me", "value": 2 },
+    {
+      "color": "#b3b3b3",
+      "from": "Google Street View_Google Street View",
+      "to": "360 virtual tour_Google Street View",
+      "value": 1
+    },
+    {
+      "color": "#b3b3b3",
+      "from": "Google Street View_Google Street View",
+      "to": "Place reviews_Google Street View",
+      "value": 1
+    },
+    { "color": "#ffd92f", "from": "Google Street View_Google Street View", "to": "Me", "value": 1 },
+    {
+      "color": "#b3b3b3",
+      "from": "Group chat_Facebook Messenger",
+      "to": "Meals_Facebook Messenger",
+      "value": 1
+    },
+    { "color": "#e5c494", "from": "Group chat_Instagram", "to": "Humour_Instagram", "value": 1 },
+    { "color": "#b3b3b3", "from": "Group chat_Instagram", "to": "Memes_Instagram", "value": 1 },
+    { "color": "#e5c494", "from": "Group chat_Instagram", "to": "Instagram_Instagram", "value": 1 },
+    {
+      "color": "#b3b3b3",
+      "from": "Group chat_WhatsApp",
+      "to": "Shared Interests_WhatsApp",
+      "value": 1
+    },
+    { "color": "#e5c494", "from": "Group chat_WhatsApp", "to": "WhatsApp_WhatsApp", "value": 1 },
+    {
+      "color": "#e5c494",
+      "from": "Hardrive storage_Hardrive storage",
+      "to": "Mum_Hardrive storage",
+      "value": 1
+    },
+    { "color": "#ffd92f", "from": "Hardrive storage_Hardrive storage", "to": "Me", "value": 2 },
+    {
+      "color": "#e5c494",
+      "from": "HelloTalk_HelloTalk",
+      "to": "Learning community_HelloTalk",
+      "value": 1
+    },
+    { "color": "#ffd92f", "from": "HelloTalk_HelloTalk", "to": "Me", "value": 1 },
+    { "color": "#b3b3b3", "from": "Hinge_Hinge", "to": "Selfie_Hinge", "value": 1 },
+    { "color": "#ffd92f", "from": "Hinge_Hinge", "to": "Me", "value": 1 },
+    {
+      "color": "#e5c494",
+      "from": "Instagram_Instagram",
+      "to": "Acquaintances_Instagram",
+      "value": 1
+    },
+    { "color": "#b3b3b3", "from": "Instagram_Instagram", "to": "Activism_Instagram", "value": 1 },
+    {
+      "color": "#b3b3b3",
+      "from": "Instagram_Instagram",
+      "to": "Aesthetic photos_Instagram",
+      "value": 1
+    },
+    { "color": "#e5c494", "from": "Instagram_Instagram", "to": "Children_Instagram", "value": 1 },
+    {
+      "color": "#b3b3b3",
+      "from": "Instagram_Instagram",
+      "to": "Digitised film photos_Instagram",
+      "value": 1
+    },
+    {
+      "color": "#b3b3b3",
+      "from": "Instagram_Instagram",
+      "to": "Fun/funny photos_Instagram",
+      "value": 1
+    },
+    { "color": "#b3b3b3", "from": "Instagram_Instagram", "to": "Humour_Instagram", "value": 1 },
+    {
+      "color": "#b3b3b3",
+      "from": "Instagram_Instagram",
+      "to": "Important events _Instagram",
+      "value": 1
+    },
+    {
+      "color": "#ffd92f",
+      "from": "Instagram_Instagram",
+      "to": "Instagram Stories_Instagram",
+      "value": 2
+    },
+    {
+      "color": "#b3b3b3",
+      "from": "Instagram_Instagram",
+      "to": "Landscape/architecture_Instagram",
+      "value": 1
+    },
+    { "color": "#b3b3b3", "from": "Instagram_Instagram", "to": "Memes_Instagram", "value": 1 },
+    { "color": "#b3b3b3", "from": "Instagram_Instagram", "to": "Objects_Instagram", "value": 1 },
+    { "color": "#e5c494", "from": "Instagram_Instagram", "to": "Partner_Instagram", "value": 1 },
+    { "color": "#b3b3b3", "from": "Instagram_Instagram", "to": "People_Instagram", "value": 1 },
+    { "color": "#b3b3b3", "from": "Instagram_Instagram", "to": "Plants_Instagram", "value": 1 },
+    { "color": "#e5c494", "from": "Instagram_Instagram", "to": "Public_Instagram", "value": 5 },
+    { "color": "#e5c494", "from": "Instagram_Instagram", "to": "Teachers_Instagram", "value": 1 },
+    {
+      "color": "#b3b3b3",
+      "from": "Instagram_Instagram",
+      "to": "Work, projects_Instagram",
+      "value": 1
+    },
+    { "color": "#ffd92f", "from": "Instagram_Instagram", "to": "Me", "value": 18 },
+    {
+      "color": "#b3b3b3",
+      "from": "Instagram Stories_Instagram",
+      "to": "Everyday activities_Instagram",
+      "value": 1
+    },
+    {
+      "color": "#e5c494",
+      "from": "Instagram Stories_Instagram",
+      "to": "Public_Instagram",
+      "value": 1
+    },
+    {
+      "color": "#b3b3b3",
+      "from": "Instagram Stories_Instagram",
+      "to": "Social photos_Instagram",
+      "value": 1
+    },
+    {
+      "color": "#b3b3b3",
+      "from": "Learning community_DADAABC",
+      "to": "Note-taking_DADAABC",
+      "value": 1
+    },
+    {
+      "color": "#b3b3b3",
+      "from": "Learning community_HelloTalk",
+      "to": "Scenery_HelloTalk",
+      "value": 1
+    },
+    {
+      "color": "#b3b3b3",
+      "from": "LinkedIn_LinkedIn",
+      "to": "Work, projects_LinkedIn",
+      "value": 2
+    },
+    { "color": "#ffd92f", "from": "LinkedIn_LinkedIn", "to": "Me", "value": 2 },
+    { "color": "#ffd92f", "from": "Me", "to": "Personal notes_Personal notes", "value": 1 },
+    { "color": "#ffd92f", "from": "Me", "to": "Personal website_Personal website", "value": 3 },
+    { "color": "#ffd92f", "from": "Me", "to": "Print_Print", "value": 11 },
+    { "color": "#ffd92f", "from": "Me", "to": "SMS Text_SMS Text", "value": 22 },
+    {
+      "color": "#ffd92f",
+      "from": "Me",
+      "to": "Secondary Instagram account_Secondary Instagram account",
+      "value": 1
+    },
+    { "color": "#ffd92f", "from": "Me", "to": "Signal_Signal", "value": 2 },
+    { "color": "#ffd92f", "from": "Me", "to": "Slack_Slack", "value": 1 },
+    { "color": "#ffd92f", "from": "Me", "to": "Snapchat_Snapchat", "value": 2 },
+    {
+      "color": "#ffd92f",
+      "from": "Me",
+      "to": "Third Instagram account_Third Instagram account",
+      "value": 1
+    },
+    { "color": "#ffd92f", "from": "Me", "to": "Tinder_Tinder", "value": 1 },
+    { "color": "#ffd92f", "from": "Me", "to": "Twitter_Twitter", "value": 1 },
+    { "color": "#ffd92f", "from": "Me", "to": "WhatsApp_WhatsApp", "value": 14 },
+    { "color": "#ffd92f", "from": "Me", "to": "iCloud_iCloud", "value": 2 },
+    {
+      "color": "#b3b3b3",
+      "from": "Mum_Hardrive storage",
+      "to": "Holidays_Hardrive storage",
+      "value": 1
+    },
+    {
+      "color": "#b3b3b3",
+      "from": "Mum_SMS Text",
+      "to": "Everyday activities_SMS Text",
+      "value": 1
+    },
+    { "color": "#b3b3b3", "from": "Mum_SMS Text", "to": "Holidays_SMS Text", "value": 1 },
+    { "color": "#b3b3b3", "from": "Mum_SMS Text", "to": "Note-taking_SMS Text", "value": 1 },
+    { "color": "#b3b3b3", "from": "Mum_SMS Text", "to": "Shared experience_SMS Text", "value": 1 },
+    { "color": "#e5c494", "from": "Mum_SMS Text", "to": "SMS Text_SMS Text", "value": 2 },
+    {
+      "color": "#b3b3b3",
+      "from": "Overseas family_Print",
+      "to": "Family photos_Print",
+      "value": 1
+    },
+    { "color": "#b3b3b3", "from": "Overseas family_Print", "to": "Life updates_Print", "value": 1 },
+    { "color": "#b3b3b3", "from": "Overseas family_Print", "to": "People_Print", "value": 1 },
+    { "color": "#e5c494", "from": "Overseas family_Print", "to": "Print_Print", "value": 1 },
+    {
+      "color": "#b3b3b3",
+      "from": "Overseas family_SMS Text",
+      "to": "Everyday activities_SMS Text",
+      "value": 1
+    },
+    {
+      "color": "#b3b3b3",
+      "from": "Overseas friends_Email",
+      "to": "Family photos_Email",
+      "value": 1
+    },
+    { "color": "#b3b3b3", "from": "Overseas friends_Email", "to": "Scenery_Email", "value": 1 },
+    {
+      "color": "#b3b3b3",
+      "from": "Overseas friends_Print",
+      "to": "Family photos_Print",
+      "value": 1
+    },
+    {
+      "color": "#b3b3b3",
+      "from": "Overseas friends_Print",
+      "to": "Life updates_Print",
+      "value": 1
+    },
+    { "color": "#b3b3b3", "from": "Overseas friends_Print", "to": "People_Print", "value": 1 },
+    { "color": "#e5c494", "from": "Overseas friends_Print", "to": "Print_Print", "value": 1 },
+    {
+      "color": "#b3b3b3",
+      "from": "Overseas friends_WhatsApp",
+      "to": "Life updates_WhatsApp",
+      "value": 1
+    },
+    {
+      "color": "#e5c494",
+      "from": "Overseas friends_WhatsApp",
+      "to": "WhatsApp_WhatsApp",
+      "value": 2
+    },
+    { "color": "#b3b3b3", "from": "Partner_Airdrop", "to": "Family photos_Airdrop", "value": 1 },
+    {
+      "color": "#b3b3b3",
+      "from": "Partner_SMS Text",
+      "to": "Aesthetic photos_SMS Text",
+      "value": 1
+    },
+    { "color": "#b3b3b3", "from": "Partner_SMS Text", "to": "Animals/pets_SMS Text", "value": 1 },
+    {
+      "color": "#b3b3b3",
+      "from": "Partner_SMS Text",
+      "to": "Everyday activities_SMS Text",
+      "value": 1
+    },
+    { "color": "#b3b3b3", "from": "Partner_SMS Text", "to": "Family photos_SMS Text", "value": 1 },
+    { "color": "#b3b3b3", "from": "Partner_SMS Text", "to": "Humour_SMS Text", "value": 2 },
+    { "color": "#b3b3b3", "from": "Partner_SMS Text", "to": "Meals_SMS Text", "value": 2 },
+    { "color": "#b3b3b3", "from": "Partner_SMS Text", "to": "Note-taking_SMS Text", "value": 3 },
+    { "color": "#b3b3b3", "from": "Partner_SMS Text", "to": "Old photos_SMS Text", "value": 1 },
+    { "color": "#b3b3b3", "from": "Partner_SMS Text", "to": "Screenshots_SMS Text", "value": 1 },
+    { "color": "#b3b3b3", "from": "Partner_SMS Text", "to": "Selfie_SMS Text", "value": 1 },
+    { "color": "#b3b3b3", "from": "Partner_SMS Text", "to": "Work, projects_SMS Text", "value": 1 },
+    { "color": "#e5c494", "from": "Partner_SMS Text", "to": "SMS Text_SMS Text", "value": 6 },
+    { "color": "#b3b3b3", "from": "Partner_iCloud", "to": "Family photos_iCloud", "value": 2 },
+    { "color": "#e5c494", "from": "Partner_iCloud", "to": "iCloud_iCloud", "value": 2 },
+    {
+      "color": "#b3b3b3",
+      "from": "Personal notes_Personal notes",
+      "to": "Work, projects_Personal notes",
+      "value": 1
+    },
+    {
+      "color": "#b3b3b3",
+      "from": "Personal website_Personal website",
+      "to": "Digitised film photos_Personal website",
+      "value": 1
+    },
+    {
+      "color": "#b3b3b3",
+      "from": "Personal website_Personal website",
+      "to": "Landscape/architecture_Personal website",
+      "value": 1
+    },
+    {
+      "color": "#b3b3b3",
+      "from": "Personal website_Personal website",
+      "to": "Objects_Personal website",
+      "value": 1
+    },
+    {
+      "color": "#b3b3b3",
+      "from": "Personal website_Personal website",
+      "to": "People_Personal website",
+      "value": 1
+    },
+    {
+      "color": "#b3b3b3",
+      "from": "Personal website_Personal website",
+      "to": "Plants_Personal website",
+      "value": 1
+    },
+    {
+      "color": "#e5c494",
+      "from": "Personal website_Personal website",
+      "to": "Public_Personal website",
+      "value": 1
+    },
+    {
+      "color": "#e5c494",
+      "from": "Personal website_Personal website",
+      "to": "Work/business/customers_Personal website",
+      "value": 1
+    },
+    { "color": "#b3b3b3", "from": "Print_Print", "to": "Holidays_Print", "value": 2 },
+    { "color": "#e5c494", "from": "Print_Print", "to": "Kids\u0027 friends_Print", "value": 1 },
+    { "color": "#e5c494", "from": "Print_Print", "to": "Public_Print", "value": 1 },
+    { "color": "#b3b3b3", "from": "Print_Print", "to": "Work, projects_Print", "value": 2 },
+    { "color": "#b3b3b3", "from": "Public_Instagram", "to": "Activism_Instagram", "value": 1 },
+    {
+      "color": "#b3b3b3",
+      "from": "Public_Instagram",
+      "to": "Individual interests_Instagram",
+      "value": 1
+    },
+    { "color": "#b3b3b3", "from": "Public_Instagram", "to": "Scenery_Instagram", "value": 2 },
+    {
+      "color": "#b3b3b3",
+      "from": "Public_Instagram",
+      "to": "Work, projects_Instagram",
+      "value": 5
+    },
+    {
+      "color": "#b3b3b3",
+      "from": "Public_Personal website",
+      "to": "Work, projects_Personal website",
+      "value": 1
+    },
+    { "color": "#b3b3b3", "from": "Public_Print", "to": "Work, projects_Print", "value": 1 },
+    {
+      "color": "#b3b3b3",
+      "from": "Public_Third Instagram account",
+      "to": "Work, projects_Third Instagram account",
+      "value": 1
+    },
+    {
+      "color": "#e5c494",
+      "from": "Public_Third Instagram account",
+      "to": "Third Instagram account_Third Instagram account",
+      "value": 1
+    },
+    { "color": "#b3b3b3", "from": "Public_Twitter", "to": "Animals/pets_Twitter", "value": 1 },
+    { "color": "#e5c494", "from": "Public_Twitter", "to": "Twitter_Twitter", "value": 1 },
+    { "color": "#e5c494", "from": "SMS Text_SMS Text", "to": "Cousins_SMS Text", "value": 1 },
+    { "color": "#b3b3b3", "from": "SMS Text_SMS Text", "to": "Family photos_SMS Text", "value": 1 },
+    { "color": "#b3b3b3", "from": "SMS Text_SMS Text", "to": "Nice memories_SMS Text", "value": 1 },
+    { "color": "#b3b3b3", "from": "SMS Text_SMS Text", "to": "Old photos_SMS Text", "value": 1 },
+    {
+      "color": "#b3b3b3",
+      "from": "SMS Text_SMS Text",
+      "to": "Photo-worthy moments_SMS Text",
+      "value": 1
+    },
+    { "color": "#b3b3b3", "from": "SMS Text_SMS Text", "to": "Screenshots_SMS Text", "value": 1 },
+    {
+      "color": "#b3b3b3",
+      "from": "SMS Text_SMS Text",
+      "to": "Shared experience_SMS Text",
+      "value": 1
+    },
+    { "color": "#e5c494", "from": "Signal_Signal", "to": "Close friends_Signal", "value": 1 },
+    { "color": "#e5c494", "from": "Signal_Signal", "to": "Cousins_Signal", "value": 1 },
+    { "color": "#e5c494", "from": "Signal_Signal", "to": "Family_Signal", "value": 2 },
+    { "color": "#e5c494", "from": "Signal_Signal", "to": "Friends_Signal", "value": 1 },
+    {
+      "color": "#b3b3b3",
+      "from": "Signal_Signal",
+      "to": "Photo-worthy moments_Signal",
+      "value": 1
+    },
+    {
+      "color": "#b3b3b3",
+      "from": "Snapchat_Snapchat",
+      "to": "Everyday photos_Snapchat",
+      "value": 1
+    },
+    {
+      "color": "#b3b3b3",
+      "from": "Snapchat_Snapchat",
+      "to": "Fun/funny photos_Snapchat",
+      "value": 1
+    },
+    { "color": "#b3b3b3", "from": "Snapchat_Snapchat", "to": "Selfie_Snapchat", "value": 1 },
+    { "color": "#b3b3b3", "from": "Tinder_Tinder", "to": "Selfie_Tinder", "value": 1 },
+    {
+      "color": "#e5c494",
+      "from": "WhatsApp_WhatsApp",
+      "to": "Childcare group_WhatsApp",
+      "value": 1
+    },
+    { "color": "#e5c494", "from": "WhatsApp_WhatsApp", "to": "Collaborators_WhatsApp", "value": 1 },
+    { "color": "#e5c494", "from": "WhatsApp_WhatsApp", "to": "Cousins_WhatsApp", "value": 1 },
+    {
+      "color": "#e5c494",
+      "from": "WhatsApp_WhatsApp",
+      "to": "Friends without social media_WhatsApp",
+      "value": 1
+    },
+    { "color": "#e5c494", "from": "WhatsApp_WhatsApp", "to": "Partner_WhatsApp", "value": 1 },
+    {
+      "color": "#b3b3b3",
+      "from": "WhatsApp_WhatsApp",
+      "to": "Photo-worthy moments_WhatsApp",
+      "value": 1
+    },
+    {
+      "color": "#b3b3b3",
+      "from": "Work/business/customers_Facebook Messenger",
+      "to": "Humour_Facebook Messenger",
+      "value": 1
+    }
+  ],
+
+  "nodes": [
+    { "color": "#8da0cb", "id": "Airdrop_Airdrop", "label": "Airdrop", "shape": "dot" },
+    { "color": "#8da0cb", "id": "BeReal_BeReal", "label": "BeReal", "shape": "dot" },
+    { "color": "#8da0cb", "id": "Camera Roll_Camera Roll", "label": "Camera Roll", "shape": "dot" },
+    { "color": "#e78ac3", "id": "Children_SMS Text", "label": "Children", "shape": "dot" },
+    { "color": "#e78ac3", "id": "Children_WhatsApp", "label": "Children", "shape": "dot" },
+    {
+      "color": "#e78ac3",
+      "id": "Close friends_Google Drive",
+      "label": "Close friends",
+      "shape": "dot"
+    },
+    {
+      "color": "#e78ac3",
+      "id": "Close friends_Instagram",
+      "label": "Close friends",
+      "shape": "dot"
+    },
+    { "color": "#e78ac3", "id": "Close friends_Print", "label": "Close friends", "shape": "dot" },
+    {
+      "color": "#e78ac3",
+      "id": "Close friends_SMS Text",
+      "label": "Close friends",
+      "shape": "dot"
+    },
+    {
+      "color": "#e78ac3",
+      "id": "Close friends_WhatsApp",
+      "label": "Close friends",
+      "shape": "dot"
+    },
+    { "color": "#e78ac3", "id": "Collaborators_Dropbox", "label": "Collaborators", "shape": "dot" },
+    { "color": "#e78ac3", "id": "Collaborators_Email", "label": "Collaborators", "shape": "dot" },
+    {
+      "color": "#e78ac3",
+      "id": "Collaborators_Instagram",
+      "label": "Collaborators",
+      "shape": "dot"
+    },
+    { "color": "#e78ac3", "id": "Collaborators_Print", "label": "Collaborators", "shape": "dot" },
+    { "color": "#e78ac3", "id": "Colleagues_Airdrop", "label": "Colleagues", "shape": "dot" },
+    { "color": "#e78ac3", "id": "Colleagues_Facebook", "label": "Colleagues", "shape": "dot" },
+    { "color": "#e78ac3", "id": "Colleagues_Instagram", "label": "Colleagues", "shape": "dot" },
+    { "color": "#e78ac3", "id": "Colleagues_SMS Text", "label": "Colleagues", "shape": "dot" },
+    { "color": "#e78ac3", "id": "Colleagues_Slack", "label": "Colleagues", "shape": "dot" },
+    { "color": "#e78ac3", "id": "Colleagues_WhatsApp", "label": "Colleagues", "shape": "dot" },
+    { "color": "#8da0cb", "id": "DADAABC_DADAABC", "label": "DADAABC", "shape": "dot" },
+    { "color": "#8da0cb", "id": "Dating app_Dating app", "label": "Dating app", "shape": "dot" },
+    { "color": "#8da0cb", "id": "Discord_Discord", "label": "Discord", "shape": "dot" },
+    { "color": "#8da0cb", "id": "Dropbox_Dropbox", "label": "Dropbox", "shape": "dot" },
+    { "color": "#8da0cb", "id": "Email_Email", "label": "Email", "shape": "dot" },
+    { "color": "#e78ac3", "id": "Employee_Email", "label": "Employee", "shape": "dot" },
+    { "color": "#e78ac3", "id": "Ex-partner_WhatsApp", "label": "Ex-partner", "shape": "dot" },
+    { "color": "#8da0cb", "id": "Facebook_Facebook", "label": "Facebook", "shape": "dot" },
+    {
+      "color": "#8da0cb",
+      "id": "Facebook Messenger_Facebook Messenger",
+      "label": "Facebook Messenger",
+      "shape": "dot"
+    },
+    { "color": "#e78ac3", "id": "Family_Email", "label": "Family", "shape": "dot" },
+    { "color": "#e78ac3", "id": "Family_Facebook", "label": "Family", "shape": "dot" },
+    { "color": "#e78ac3", "id": "Family_Facebook Messenger", "label": "Family", "shape": "dot" },
+    { "color": "#e78ac3", "id": "Family_Instagram", "label": "Family", "shape": "dot" },
+    { "color": "#e78ac3", "id": "Family_Print", "label": "Family", "shape": "dot" },
+    { "color": "#e78ac3", "id": "Family_SMS Text", "label": "Family", "shape": "dot" },
+    {
+      "color": "#e78ac3",
+      "id": "Family_Secondary Instagram account",
+      "label": "Family",
+      "shape": "dot"
+    },
+    { "color": "#e78ac3", "id": "Family_WhatsApp", "label": "Family", "shape": "dot" },
+    { "color": "#e78ac3", "id": "Friends_Airdrop", "label": "Friends", "shape": "dot" },
+    { "color": "#e78ac3", "id": "Friends_Discord", "label": "Friends", "shape": "dot" },
+    { "color": "#e78ac3", "id": "Friends_Email", "label": "Friends", "shape": "dot" },
+    { "color": "#e78ac3", "id": "Friends_Facebook", "label": "Friends", "shape": "dot" },
+    { "color": "#e78ac3", "id": "Friends_Facebook Messenger", "label": "Friends", "shape": "dot" },
+    { "color": "#e78ac3", "id": "Friends_Hardrive storage", "label": "Friends", "shape": "dot" },
+    { "color": "#e78ac3", "id": "Friends_Instagram", "label": "Friends", "shape": "dot" },
+    { "color": "#e78ac3", "id": "Friends_Print", "label": "Friends", "shape": "dot" },
+    { "color": "#e78ac3", "id": "Friends_SMS Text", "label": "Friends", "shape": "dot" },
+    { "color": "#e78ac3", "id": "Friends_Snapchat", "label": "Friends", "shape": "dot" },
+    { "color": "#e78ac3", "id": "Friends_WhatsApp", "label": "Friends", "shape": "dot" },
+    {
+      "color": "#8da0cb",
+      "id": "Google Drive_Google Drive",
+      "label": "Google Drive",
+      "shape": "dot"
+    },
+    {
+      "color": "#8da0cb",
+      "id": "Google Street View_Google Street View",
+      "label": "Google Street View",
+      "shape": "dot"
+    },
+    {
+      "color": "#e78ac3",
+      "id": "Group chat_Facebook Messenger",
+      "label": "Group chat",
+      "shape": "dot"
+    },
+    { "color": "#e78ac3", "id": "Group chat_Instagram", "label": "Group chat", "shape": "dot" },
+    { "color": "#e78ac3", "id": "Group chat_WhatsApp", "label": "Group chat", "shape": "dot" },
+    {
+      "color": "#8da0cb",
+      "id": "Hardrive storage_Hardrive storage",
+      "label": "Hardrive storage",
+      "shape": "dot"
+    },
+    { "color": "#8da0cb", "id": "HelloTalk_HelloTalk", "label": "HelloTalk", "shape": "dot" },
+    { "color": "#8da0cb", "id": "Hinge_Hinge", "label": "Hinge", "shape": "dot" },
+    { "color": "#8da0cb", "id": "Instagram_Instagram", "label": "Instagram", "shape": "dot" },
+    {
+      "color": "#8da0cb",
+      "id": "Instagram Stories_Instagram",
+      "label": "Instagram Stories",
+      "shape": "dot"
+    },
+    {
+      "color": "#e78ac3",
+      "id": "Learning community_DADAABC",
+      "label": "Learning community",
+      "shape": "dot"
+    },
+    {
+      "color": "#e78ac3",
+      "id": "Learning community_HelloTalk",
+      "label": "Learning community",
+      "shape": "dot"
+    },
+    { "color": "#8da0cb", "id": "LinkedIn_LinkedIn", "label": "LinkedIn", "shape": "dot" },
+    { "color": "#fc8d62", "id": "Me", "label": "Me", "shape": "dot" },
+    { "color": "#e78ac3", "id": "Mum_Hardrive storage", "label": "Mum", "shape": "dot" },
+    { "color": "#e78ac3", "id": "Mum_SMS Text", "label": "Mum", "shape": "dot" },
+    {
+      "color": "#e78ac3",
+      "id": "Overseas family_Print",
+      "label": "Overseas family",
+      "shape": "dot"
+    },
+    {
+      "color": "#e78ac3",
+      "id": "Overseas family_SMS Text",
+      "label": "Overseas family",
+      "shape": "dot"
+    },
+    {
+      "color": "#e78ac3",
+      "id": "Overseas friends_Email",
+      "label": "Overseas friends",
+      "shape": "dot"
+    },
+    {
+      "color": "#e78ac3",
+      "id": "Overseas friends_Print",
+      "label": "Overseas friends",
+      "shape": "dot"
+    },
+    {
+      "color": "#e78ac3",
+      "id": "Overseas friends_WhatsApp",
+      "label": "Overseas friends",
+      "shape": "dot"
+    },
+    { "color": "#e78ac3", "id": "Partner_Airdrop", "label": "Partner", "shape": "dot" },
+    { "color": "#e78ac3", "id": "Partner_SMS Text", "label": "Partner", "shape": "dot" },
+    { "color": "#e78ac3", "id": "Partner_iCloud", "label": "Partner", "shape": "dot" },
+    {
+      "color": "#8da0cb",
+      "id": "Personal notes_Personal notes",
+      "label": "Personal notes",
+      "shape": "dot"
+    },
+    {
+      "color": "#8da0cb",
+      "id": "Personal website_Personal website",
+      "label": "Personal website",
+      "shape": "dot"
+    },
+    { "color": "#8da0cb", "id": "Print_Print", "label": "Print", "shape": "dot" },
+    { "color": "#e78ac3", "id": "Public_Instagram", "label": "Public", "shape": "dot" },
+    { "color": "#e78ac3", "id": "Public_Personal website", "label": "Public", "shape": "dot" },
+    { "color": "#e78ac3", "id": "Public_Print", "label": "Public", "shape": "dot" },
+    {
+      "color": "#e78ac3",
+      "id": "Public_Third Instagram account",
+      "label": "Public",
+      "shape": "dot"
+    },
+    { "color": "#e78ac3", "id": "Public_Twitter", "label": "Public", "shape": "dot" },
+    { "color": "#8da0cb", "id": "SMS Text_SMS Text", "label": "SMS Text", "shape": "dot" },
+    {
+      "color": "#8da0cb",
+      "id": "Secondary Instagram account_Secondary Instagram account",
+      "label": "Secondary Instagram account",
+      "shape": "dot"
+    },
+    { "color": "#8da0cb", "id": "Signal_Signal", "label": "Signal", "shape": "dot" },
+    { "color": "#8da0cb", "id": "Slack_Slack", "label": "Slack", "shape": "dot" },
+    { "color": "#8da0cb", "id": "Snapchat_Snapchat", "label": "Snapchat", "shape": "dot" },
+    {
+      "color": "#8da0cb",
+      "id": "Third Instagram account_Third Instagram account",
+      "label": "Third Instagram account",
+      "shape": "dot"
+    },
+    { "color": "#8da0cb", "id": "Tinder_Tinder", "label": "Tinder", "shape": "dot" },
+    { "color": "#8da0cb", "id": "Twitter_Twitter", "label": "Twitter", "shape": "dot" },
+    { "color": "#8da0cb", "id": "WhatsApp_WhatsApp", "label": "WhatsApp", "shape": "dot" },
+    {
+      "color": "#e78ac3",
+      "id": "Work/business/customers_Facebook Messenger",
+      "label": "Work/business/customers",
+      "shape": "dot"
+    },
+    { "color": "#8da0cb", "id": "iCloud_iCloud", "label": "iCloud", "shape": "dot" },
+    { "color": "#e78ac3", "id": "Close friends_BeReal", "label": "Close friends", "shape": "dot" },
+    {
+      "color": "#66c2a5",
+      "id": "Everyday photos_BeReal",
+      "label": "Everyday photos",
+      "shape": "dot"
+    },
+    { "color": "#e78ac3", "id": "Friends_Camera Roll", "label": "Friends", "shape": "dot" },
+    { "color": "#66c2a5", "id": "Holidays_Camera Roll", "label": "Holidays", "shape": "dot" },
+    {
+      "color": "#66c2a5",
+      "id": "Individual interests_Camera Roll",
+      "label": "Individual interests",
+      "shape": "dot"
+    },
+    { "color": "#66c2a5", "id": "Meals_Camera Roll", "label": "Meals", "shape": "dot" },
+    { "color": "#66c2a5", "id": "Memes_Camera Roll", "label": "Memes", "shape": "dot" },
+    {
+      "color": "#66c2a5",
+      "id": "Nice memories_Camera Roll",
+      "label": "Nice memories",
+      "shape": "dot"
+    },
+    { "color": "#66c2a5", "id": "Note-taking_Camera Roll", "label": "Note-taking", "shape": "dot" },
+    { "color": "#66c2a5", "id": "Screenshots_Camera Roll", "label": "Screenshots", "shape": "dot" },
+    {
+      "color": "#66c2a5",
+      "id": "Work, projects_Camera Roll",
+      "label": "Work, projects",
+      "shape": "dot"
+    },
+    {
+      "color": "#66c2a5",
+      "id": "Everyday activities_SMS Text",
+      "label": "Everyday activities",
+      "shape": "dot"
+    },
+    { "color": "#66c2a5", "id": "Scenery_SMS Text", "label": "Scenery", "shape": "dot" },
+    {
+      "color": "#66c2a5",
+      "id": "Shared experience_WhatsApp",
+      "label": "Shared experience",
+      "shape": "dot"
+    },
+    {
+      "color": "#66c2a5",
+      "id": "Shared experience_Google Drive",
+      "label": "Shared experience",
+      "shape": "dot"
+    },
+    {
+      "color": "#66c2a5",
+      "id": "Social photos_Google Drive",
+      "label": "Social photos",
+      "shape": "dot"
+    },
+    {
+      "color": "#66c2a5",
+      "id": "Individual interests_Instagram",
+      "label": "Individual interests",
+      "shape": "dot"
+    },
+    { "color": "#66c2a5", "id": "Family photos_Print", "label": "Family photos", "shape": "dot" },
+    { "color": "#66c2a5", "id": "Humour_SMS Text", "label": "Humour", "shape": "dot" },
+    {
+      "color": "#66c2a5",
+      "id": "Important events _SMS Text",
+      "label": "Important events ",
+      "shape": "dot"
+    },
+    { "color": "#66c2a5", "id": "Life updates_SMS Text", "label": "Life updates", "shape": "dot" },
+    {
+      "color": "#66c2a5",
+      "id": "Shared Interests_SMS Text",
+      "label": "Shared Interests",
+      "shape": "dot"
+    },
+    {
+      "color": "#66c2a5",
+      "id": "Family photos_WhatsApp",
+      "label": "Family photos",
+      "shape": "dot"
+    },
+    { "color": "#66c2a5", "id": "Holidays_WhatsApp", "label": "Holidays", "shape": "dot" },
+    {
+      "color": "#66c2a5",
+      "id": "Work, projects_Dropbox",
+      "label": "Work, projects",
+      "shape": "dot"
+    },
+    { "color": "#66c2a5", "id": "Activism_Email", "label": "Activism", "shape": "dot" },
+    { "color": "#66c2a5", "id": "Old photos_Email", "label": "Old photos", "shape": "dot" },
+    {
+      "color": "#66c2a5",
+      "id": "Shared experience_Email",
+      "label": "Shared experience",
+      "shape": "dot"
+    },
+    { "color": "#66c2a5", "id": "Work, projects_Email", "label": "Work, projects", "shape": "dot" },
+    { "color": "#66c2a5", "id": "Activism_Instagram", "label": "Activism", "shape": "dot" },
+    {
+      "color": "#66c2a5",
+      "id": "Work, projects_Instagram",
+      "label": "Work, projects",
+      "shape": "dot"
+    },
+    { "color": "#66c2a5", "id": "Gift_Print", "label": "Gift", "shape": "dot" },
+    {
+      "color": "#66c2a5",
+      "id": "Work, projects_Airdrop",
+      "label": "Work, projects",
+      "shape": "dot"
+    },
+    {
+      "color": "#66c2a5",
+      "id": "Work, projects_Facebook",
+      "label": "Work, projects",
+      "shape": "dot"
+    },
+    {
+      "color": "#66c2a5",
+      "id": "Landscape/architecture_SMS Text",
+      "label": "Landscape/architecture",
+      "shape": "dot"
+    },
+    {
+      "color": "#66c2a5",
+      "id": "Shared experience_SMS Text",
+      "label": "Shared experience",
+      "shape": "dot"
+    },
+    {
+      "color": "#66c2a5",
+      "id": "Work, projects_SMS Text",
+      "label": "Work, projects",
+      "shape": "dot"
+    },
+    {
+      "color": "#66c2a5",
+      "id": "Shared experience_Slack",
+      "label": "Shared experience",
+      "shape": "dot"
+    },
+    { "color": "#66c2a5", "id": "Work, projects_Slack", "label": "Work, projects", "shape": "dot" },
+    {
+      "color": "#66c2a5",
+      "id": "Work, projects_WhatsApp",
+      "label": "Work, projects",
+      "shape": "dot"
+    },
+    { "color": "#66c2a5", "id": "Selfie_Dating app", "label": "Selfie", "shape": "dot" },
+    { "color": "#e78ac3", "id": "Colleagues_Dropbox", "label": "Colleagues", "shape": "dot" },
+    { "color": "#66c2a5", "id": "Holidays_Dropbox", "label": "Holidays", "shape": "dot" },
+    { "color": "#e78ac3", "id": "Colleagues_Email", "label": "Colleagues", "shape": "dot" },
+    { "color": "#66c2a5", "id": "Note-taking_Email", "label": "Note-taking", "shape": "dot" },
+    {
+      "color": "#e78ac3",
+      "id": "Collaborators_Facebook",
+      "label": "Collaborators",
+      "shape": "dot"
+    },
+    { "color": "#66c2a5", "id": "Old photos_Facebook", "label": "Old photos", "shape": "dot" },
+    { "color": "#e78ac3", "id": "Partner_Facebook", "label": "Partner", "shape": "dot" },
+    {
+      "color": "#66c2a5",
+      "id": "Aesthetic photos_Facebook Messenger",
+      "label": "Aesthetic photos",
+      "shape": "dot"
+    },
+    {
+      "color": "#66c2a5",
+      "id": "Animals/pets_Facebook Messenger",
+      "label": "Animals/pets",
+      "shape": "dot"
+    },
+    {
+      "color": "#e78ac3",
+      "id": "Collaborators_Facebook Messenger",
+      "label": "Collaborators",
+      "shape": "dot"
+    },
+    { "color": "#66c2a5", "id": "Memes_Facebook Messenger", "label": "Memes", "shape": "dot" },
+    { "color": "#e78ac3", "id": "Partner_Facebook Messenger", "label": "Partner", "shape": "dot" },
+    { "color": "#66c2a5", "id": "Selfie_Facebook Messenger", "label": "Selfie", "shape": "dot" },
+    { "color": "#66c2a5", "id": "Family photos_Email", "label": "Family photos", "shape": "dot" },
+    { "color": "#66c2a5", "id": "Scenery_Email", "label": "Scenery", "shape": "dot" },
+    {
+      "color": "#66c2a5",
+      "id": "Shared Interests_Email",
+      "label": "Shared Interests",
+      "shape": "dot"
+    },
+    { "color": "#66c2a5", "id": "Selfie_Facebook", "label": "Selfie", "shape": "dot" },
+    {
+      "color": "#66c2a5",
+      "id": "Family photos_Facebook Messenger",
+      "label": "Family photos",
+      "shape": "dot"
+    },
+    { "color": "#66c2a5", "id": "Holidays_Instagram", "label": "Holidays", "shape": "dot" },
+    { "color": "#66c2a5", "id": "Old photos_Instagram", "label": "Old photos", "shape": "dot" },
+    {
+      "color": "#66c2a5",
+      "id": "Social photos_Instagram",
+      "label": "Social photos",
+      "shape": "dot"
+    },
+    { "color": "#66c2a5", "id": "Homemade cards_Print", "label": "Homemade cards", "shape": "dot" },
+    {
+      "color": "#66c2a5",
+      "id": "Important events _Print",
+      "label": "Important events ",
+      "shape": "dot"
+    },
+    { "color": "#66c2a5", "id": "People_Print", "label": "People", "shape": "dot" },
+    { "color": "#66c2a5", "id": "Animals/pets_SMS Text", "label": "Animals/pets", "shape": "dot" },
+    {
+      "color": "#66c2a5",
+      "id": "Family photos_SMS Text",
+      "label": "Family photos",
+      "shape": "dot"
+    },
+    { "color": "#66c2a5", "id": "Holidays_SMS Text", "label": "Holidays", "shape": "dot" },
+    { "color": "#66c2a5", "id": "Note-taking_SMS Text", "label": "Note-taking", "shape": "dot" },
+    { "color": "#66c2a5", "id": "Old photos_SMS Text", "label": "Old photos", "shape": "dot" },
+    { "color": "#66c2a5", "id": "People_SMS Text", "label": "People", "shape": "dot" },
+    { "color": "#66c2a5", "id": "Selfie_SMS Text", "label": "Selfie", "shape": "dot" },
+    {
+      "color": "#66c2a5",
+      "id": "Family photos_Secondary Instagram account",
+      "label": "Family photos",
+      "shape": "dot"
+    },
+    {
+      "color": "#66c2a5",
+      "id": "Everyday activities_WhatsApp",
+      "label": "Everyday activities",
+      "shape": "dot"
+    },
+    { "color": "#66c2a5", "id": "Note-taking_WhatsApp", "label": "Note-taking", "shape": "dot" },
+    { "color": "#66c2a5", "id": "Selfie_WhatsApp", "label": "Selfie", "shape": "dot" },
+    {
+      "color": "#66c2a5",
+      "id": "Social photos_WhatsApp",
+      "label": "Social photos",
+      "shape": "dot"
+    },
+    {
+      "color": "#66c2a5",
+      "id": "Important events _Airdrop",
+      "label": "Important events ",
+      "shape": "dot"
+    },
+    {
+      "color": "#66c2a5",
+      "id": "Shared experience_Airdrop",
+      "label": "Shared experience",
+      "shape": "dot"
+    },
+    { "color": "#66c2a5", "id": "Social photos_Airdrop", "label": "Social photos", "shape": "dot" },
+    { "color": "#66c2a5", "id": "Memes_Discord", "label": "Memes", "shape": "dot" },
+    { "color": "#66c2a5", "id": "Selfie_Discord", "label": "Selfie", "shape": "dot" },
+    { "color": "#66c2a5", "id": "Social photos_Discord", "label": "Social photos", "shape": "dot" },
+    {
+      "color": "#66c2a5",
+      "id": "Important events _Email",
+      "label": "Important events ",
+      "shape": "dot"
+    },
+    { "color": "#66c2a5", "id": "Life updates_Email", "label": "Life updates", "shape": "dot" },
+    {
+      "color": "#66c2a5",
+      "id": "Photo-worthy moments_Facebook",
+      "label": "Photo-worthy moments",
+      "shape": "dot"
+    },
+    {
+      "color": "#66c2a5",
+      "id": "Everyday activities_Facebook Messenger",
+      "label": "Everyday activities",
+      "shape": "dot"
+    },
+    { "color": "#66c2a5", "id": "Humour_Facebook Messenger", "label": "Humour", "shape": "dot" },
+    {
+      "color": "#66c2a5",
+      "id": "Note-taking_Facebook Messenger",
+      "label": "Note-taking",
+      "shape": "dot"
+    },
+    {
+      "color": "#66c2a5",
+      "id": "Old photos_Facebook Messenger",
+      "label": "Old photos",
+      "shape": "dot"
+    },
+    {
+      "color": "#66c2a5",
+      "id": "Screenshots_Facebook Messenger",
+      "label": "Screenshots",
+      "shape": "dot"
+    },
+    {
+      "color": "#66c2a5",
+      "id": "Social photos_Facebook Messenger",
+      "label": "Social photos",
+      "shape": "dot"
+    },
+    {
+      "color": "#66c2a5",
+      "id": "Old photos_Hardrive storage",
+      "label": "Old photos",
+      "shape": "dot"
+    },
+    {
+      "color": "#66c2a5",
+      "id": "Shared experience_Hardrive storage",
+      "label": "Shared experience",
+      "shape": "dot"
+    },
+    { "color": "#66c2a5", "id": "Animals/pets_Instagram", "label": "Animals/pets", "shape": "dot" },
+    {
+      "color": "#66c2a5",
+      "id": "Everyday activities_Instagram",
+      "label": "Everyday activities",
+      "shape": "dot"
+    },
+    {
+      "color": "#66c2a5",
+      "id": "Family photos_Instagram",
+      "label": "Family photos",
+      "shape": "dot"
+    },
+    { "color": "#66c2a5", "id": "Meals_Instagram", "label": "Meals", "shape": "dot" },
+    {
+      "color": "#66c2a5",
+      "id": "Photo-worthy moments_Instagram",
+      "label": "Photo-worthy moments",
+      "shape": "dot"
+    },
+    { "color": "#66c2a5", "id": "Scenery_Instagram", "label": "Scenery", "shape": "dot" },
+    { "color": "#66c2a5", "id": "Selfie_Instagram", "label": "Selfie", "shape": "dot" },
+    {
+      "color": "#66c2a5",
+      "id": "Fun/funny photos_SMS Text",
+      "label": "Fun/funny photos",
+      "shape": "dot"
+    },
+    { "color": "#66c2a5", "id": "Meals_SMS Text", "label": "Meals", "shape": "dot" },
+    { "color": "#66c2a5", "id": "Memes_SMS Text", "label": "Memes", "shape": "dot" },
+    { "color": "#66c2a5", "id": "Plants_SMS Text", "label": "Plants", "shape": "dot" },
+    { "color": "#66c2a5", "id": "Screenshots_SMS Text", "label": "Screenshots", "shape": "dot" },
+    {
+      "color": "#66c2a5",
+      "id": "Social photos_SMS Text",
+      "label": "Social photos",
+      "shape": "dot"
+    },
+    {
+      "color": "#66c2a5",
+      "id": "Family photos_Snapchat",
+      "label": "Family photos",
+      "shape": "dot"
+    },
+    {
+      "color": "#66c2a5",
+      "id": "Fun/funny photos_Snapchat",
+      "label": "Fun/funny photos",
+      "shape": "dot"
+    },
+    { "color": "#66c2a5", "id": "Scenery_WhatsApp", "label": "Scenery", "shape": "dot" },
+    { "color": "#e78ac3", "id": "Colleagues_Google Drive", "label": "Colleagues", "shape": "dot" },
+    { "color": "#e78ac3", "id": "Friends_Google Drive", "label": "Friends", "shape": "dot" },
+    {
+      "color": "#a6d854",
+      "id": "360 virtual tour_Google Street View",
+      "label": "360 virtual tour",
+      "shape": "dot"
+    },
+    {
+      "color": "#66c2a5",
+      "id": "Place reviews_Google Street View",
+      "label": "Place reviews",
+      "shape": "dot"
+    },
+    { "color": "#66c2a5", "id": "Meals_Facebook Messenger", "label": "Meals", "shape": "dot" },
+    { "color": "#66c2a5", "id": "Humour_Instagram", "label": "Humour", "shape": "dot" },
+    { "color": "#66c2a5", "id": "Memes_Instagram", "label": "Memes", "shape": "dot" },
+    {
+      "color": "#66c2a5",
+      "id": "Shared Interests_WhatsApp",
+      "label": "Shared Interests",
+      "shape": "dot"
+    },
+    { "color": "#66c2a5", "id": "Selfie_Hinge", "label": "Selfie", "shape": "dot" },
+    {
+      "color": "#e78ac3",
+      "id": "Acquaintances_Instagram",
+      "label": "Acquaintances",
+      "shape": "dot"
+    },
+    {
+      "color": "#66c2a5",
+      "id": "Aesthetic photos_Instagram",
+      "label": "Aesthetic photos",
+      "shape": "dot"
+    },
+    { "color": "#e78ac3", "id": "Children_Instagram", "label": "Children", "shape": "dot" },
+    {
+      "color": "#66c2a5",
+      "id": "Digitised film photos_Instagram",
+      "label": "Digitised film photos",
+      "shape": "dot"
+    },
+    {
+      "color": "#66c2a5",
+      "id": "Fun/funny photos_Instagram",
+      "label": "Fun/funny photos",
+      "shape": "dot"
+    },
+    {
+      "color": "#66c2a5",
+      "id": "Important events _Instagram",
+      "label": "Important events ",
+      "shape": "dot"
+    },
+    {
+      "color": "#66c2a5",
+      "id": "Landscape/architecture_Instagram",
+      "label": "Landscape/architecture",
+      "shape": "dot"
+    },
+    { "color": "#66c2a5", "id": "Objects_Instagram", "label": "Objects", "shape": "dot" },
+    { "color": "#e78ac3", "id": "Partner_Instagram", "label": "Partner", "shape": "dot" },
+    { "color": "#66c2a5", "id": "People_Instagram", "label": "People", "shape": "dot" },
+    { "color": "#66c2a5", "id": "Plants_Instagram", "label": "Plants", "shape": "dot" },
+    { "color": "#e78ac3", "id": "Teachers_Instagram", "label": "Teachers", "shape": "dot" },
+    { "color": "#66c2a5", "id": "Note-taking_DADAABC", "label": "Note-taking", "shape": "dot" },
+    { "color": "#66c2a5", "id": "Scenery_HelloTalk", "label": "Scenery", "shape": "dot" },
+    {
+      "color": "#66c2a5",
+      "id": "Work, projects_LinkedIn",
+      "label": "Work, projects",
+      "shape": "dot"
+    },
+    { "color": "#66c2a5", "id": "Holidays_Hardrive storage", "label": "Holidays", "shape": "dot" },
+    { "color": "#66c2a5", "id": "Life updates_Print", "label": "Life updates", "shape": "dot" },
+    { "color": "#66c2a5", "id": "Life updates_WhatsApp", "label": "Life updates", "shape": "dot" },
+    { "color": "#66c2a5", "id": "Family photos_Airdrop", "label": "Family photos", "shape": "dot" },
+    {
+      "color": "#66c2a5",
+      "id": "Aesthetic photos_SMS Text",
+      "label": "Aesthetic photos",
+      "shape": "dot"
+    },
+    { "color": "#66c2a5", "id": "Family photos_iCloud", "label": "Family photos", "shape": "dot" },
+    {
+      "color": "#66c2a5",
+      "id": "Work, projects_Personal notes",
+      "label": "Work, projects",
+      "shape": "dot"
+    },
+    {
+      "color": "#66c2a5",
+      "id": "Digitised film photos_Personal website",
+      "label": "Digitised film photos",
+      "shape": "dot"
+    },
+    {
+      "color": "#66c2a5",
+      "id": "Landscape/architecture_Personal website",
+      "label": "Landscape/architecture",
+      "shape": "dot"
+    },
+    { "color": "#66c2a5", "id": "Objects_Personal website", "label": "Objects", "shape": "dot" },
+    { "color": "#66c2a5", "id": "People_Personal website", "label": "People", "shape": "dot" },
+    { "color": "#66c2a5", "id": "Plants_Personal website", "label": "Plants", "shape": "dot" },
+    {
+      "color": "#e78ac3",
+      "id": "Work/business/customers_Personal website",
+      "label": "Work/business/customers",
+      "shape": "dot"
+    },
+    { "color": "#66c2a5", "id": "Holidays_Print", "label": "Holidays", "shape": "dot" },
+    {
+      "color": "#e78ac3",
+      "id": "Kids\u0027 friends_Print",
+      "label": "Kids\u0027 friends",
+      "shape": "dot"
+    },
+    { "color": "#66c2a5", "id": "Work, projects_Print", "label": "Work, projects", "shape": "dot" },
+    {
+      "color": "#66c2a5",
+      "id": "Work, projects_Personal website",
+      "label": "Work, projects",
+      "shape": "dot"
+    },
+    {
+      "color": "#66c2a5",
+      "id": "Work, projects_Third Instagram account",
+      "label": "Work, projects",
+      "shape": "dot"
+    },
+    { "color": "#66c2a5", "id": "Animals/pets_Twitter", "label": "Animals/pets", "shape": "dot" },
+    { "color": "#e78ac3", "id": "Cousins_SMS Text", "label": "Cousins", "shape": "dot" },
+    {
+      "color": "#66c2a5",
+      "id": "Nice memories_SMS Text",
+      "label": "Nice memories",
+      "shape": "dot"
+    },
+    {
+      "color": "#66c2a5",
+      "id": "Photo-worthy moments_SMS Text",
+      "label": "Photo-worthy moments",
+      "shape": "dot"
+    },
+    { "color": "#e78ac3", "id": "Close friends_Signal", "label": "Close friends", "shape": "dot" },
+    { "color": "#e78ac3", "id": "Cousins_Signal", "label": "Cousins", "shape": "dot" },
+    { "color": "#e78ac3", "id": "Family_Signal", "label": "Family", "shape": "dot" },
+    { "color": "#e78ac3", "id": "Friends_Signal", "label": "Friends", "shape": "dot" },
+    {
+      "color": "#66c2a5",
+      "id": "Photo-worthy moments_Signal",
+      "label": "Photo-worthy moments",
+      "shape": "dot"
+    },
+    {
+      "color": "#66c2a5",
+      "id": "Everyday photos_Snapchat",
+      "label": "Everyday photos",
+      "shape": "dot"
+    },
+    { "color": "#66c2a5", "id": "Selfie_Snapchat", "label": "Selfie", "shape": "dot" },
+    { "color": "#66c2a5", "id": "Selfie_Tinder", "label": "Selfie", "shape": "dot" },
+    {
+      "color": "#e78ac3",
+      "id": "Childcare group_WhatsApp",
+      "label": "Childcare group",
+      "shape": "dot"
+    },
+    {
+      "color": "#e78ac3",
+      "id": "Collaborators_WhatsApp",
+      "label": "Collaborators",
+      "shape": "dot"
+    },
+    { "color": "#e78ac3", "id": "Cousins_WhatsApp", "label": "Cousins", "shape": "dot" },
+    {
+      "color": "#e78ac3",
+      "id": "Friends without social media_WhatsApp",
+      "label": "Friends without social media",
+      "shape": "dot"
+    },
+    { "color": "#e78ac3", "id": "Partner_WhatsApp", "label": "Partner", "shape": "dot" },
+    {
+      "color": "#66c2a5",
+      "id": "Photo-worthy moments_WhatsApp",
+      "label": "Photo-worthy moments",
+      "shape": "dot"
+    }
+  ],
+  "quotes": [
+    {
+      "PersonID": 1,
+      "Node": "Snapchat",
+      "Quote": "I use Snapchat mainly to talk to other people, I think especially just starting university, it's a good way to just get people's socials without asking for their number, which can be a bit forward sometimes with someone you've just met. So it's a good way of staying in contact. Also the Stories function, you can have private stories. So I've got stories with five of my closest friends. And then if something funny has happened or whatever, I can just post it on that. So I know that just those friends are seeing it. And then there's Snapchat memories as well, if I take a photo on Snapchat, I can store it on there. And I've got photos all the way back to 2016, when I first got Snapchat. ",
+      "File": "",
+      "id": 1
+    },
+    {
+      "PersonID": 1,
+      "Node": "Instagram",
+      "Quote": "Instagram... I don't talk to people as much on Instagram, I think it's a bit better for group chats. But mainly it's posting photos, looking at other people's photos, I follow a few news accounts and stuff as well. So I use that more for where I get my first source of news, like ABC News and stuff. Instagram is a bit wider I think. (...) I think a story post is probably more something to show people where I am. Or just a photo of my friends or something. Whereas like a grid post probably is more of a photo of me somewhere that isn't Melbourne usually. Or like a photo that I think people wouldn't commonly see on Stories as much. Like, I just came back from India. I'll probably post some photos from there, but probably would not post on my story, because I want to have that on my account for longer so people can see it.",
+      "File": "",
+      "id": 2
+    },
+    {
+      "PersonID": 1,
+      "Node": "BeReal",
+      "Quote": "It's just basically personal photos at the same time every day. And it's not that exciting. But it's nice to see what people are doing and what they\u2019re up to if they're away on a holiday. Like my friend is in Switzerland at the moment, so I can see mountains. ",
+      "File": "",
+      "id": 3
+    },
+    {
+      "PersonID": 1,
+      "Node": "SMS Text",
+      "Quote": "Usually, if I take a photo out and about and it's not a specific place, it's usually to send to someone else to be like, \u2018Oh, this is funny. look at this\u2019. Like, last night, my Mum\u2019s friend left her glasses at this dinner party and I took a selfie with me in the glasses before I gave them back to her. Most of the photos that are taken at home are of my cat. Or I\u2019ll take a photo and write \u2018miss you\u2019 on it and send it to a friend. But mainly just photos of me and my cat to be honest, just stuff I\u2019m doing at home. ",
+      "File": "",
+      "id": 4
+    },
+    {
+      "PersonID": 1,
+      "Node": "Friends",
+      "Quote": "I had a really good bagel yesterday, and if I wasn\u2019t with someone else I probably would have sent a photo to talk to my friend about it, to be like \u2018we should go here one day\u2019. I saw one of my teachers out and about the other day, I took photos of her really secretly and sent it to my friend because we both loved her. It\u2019s mainly things that I know my friends will relate to. Like, if I saw something about Harry Styles, I\u2019m not going to send it to a friend that doesn\u2019t like Harry Styles, I\u2019ll probably send it to a friend who I went to the concert with. So yeah, it\u2019s mainly things that they\u2019ll relate to, and that we will be able to talk about.",
+      "File": "",
+      "id": 5
+    },
+    {
+      "PersonID": 2,
+      "Node": "SMS Text",
+      "Quote": "So I grew up in a street where four houses were all family, they were all my uncles, and so my cousins \u2013there were 10 of us\u2013 we all grew up as if we were one family. So there's this real closeness in our early childhood, up until we're probably 14 or 15. And then we all sort of went our own ways. And there's been a very big disconnection since then. But it's interesting, because when you, when we get together, it's almost like you get transported back to that childhood space. So I might not have seen or had much to do with these people for the bulk of my life. And yet, when I'm with them, there's a really deep connection that belies the fact that we don't have a lot to do with each other. Sending photos between seeing each other sort of keeps us together and connected. And it reinforces that belief, I suppose, in the connections that we have, the shared experiences we have.",
+      "File": "",
+      "id": 6
+    },
+    {
+      "PersonID": 2,
+      "Node": "WhatsApp",
+      "Quote": "My daughter shares photos with me. My son doesn\u2019t, even though he\u2019s nearly 17, it\u2019s almost like he was born in a different era. (...) He\u2019s using stuff like Instagram and TikTok and all that stuff that I just don\u2019t have a desire to, or have access to. So I don\u2019t see any of that. He sends a lot of photos, usually of himself, and I think in his peer group that\u2019s what they do. They\u2019re just taking snaps of themselves all the time, hundreds a day, probably. And I\u2019m just not in that world. ",
+      "File": "",
+      "id": 7
+    },
+    {
+      "PersonID": 2,
+      "Node": "Holidays",
+      "Quote": "I went through [the holiday photos] and picked the best of them. And, you know, with those photos I didn\u2019t do any corrections, nothing. That\u2019s just straight off the camera. And then I sent them to \u2013 I forget which company it was, and they printed them off. ",
+      "File": "Image file 02_1",
+      "id": 8
+    },
+    {
+      "PersonID": 2,
+      "Node": "Kids' friends",
+      "Quote": "This one here is my favorite. It\u2019s not great quality, it\u2019s taken on an old video camera. It\u2019s a photograph that I took in 1984. And it's one of these photographs that I leave around. And when the kids bring their mates along, they look at it and they say, \u2018what is it?\u2019 And I said, I'll give you $100 if you can tell me what that's a picture of. Only one person in all these years has recognized what it is. (...) I keep putting the money up every year. There\u2019s a bit of perverse pleasure in it. It\u2019s also something that something that connects me with my kids friends, because they come around, they see it and are like \u2018that bloody photo\u2019. ",
+      "File": "Image file 02_2",
+      "id": 9
+    },
+    {
+      "PersonID": 2,
+      "Node": "Signal",
+      "Quote": "I use Signal now or Telegraph. I don\u2019t use WhatsApp anymore. I just don't like Mark Zuckerberg and his whole approach. So I just think I'll just make a statement and not be involved. And so I try not to be involved in any of his stuff. Not that the others are probably any better. But that stuff that happened with the data leaks with Cambridge Analytica, that was very disturbing. (...) I wouldn't post any of that stuff on a social media account because I would just be thinking, \u2018Well, why would anyone want to see it?\u2019 I suppose people do, I suppose, circles of friendships that are in my friendship group. I suppose I'm an odd one out that I don't use social media. There's only a few of us in my friendship group, maybe two or three, and we only communicate using Signal.",
+      "File": "",
+      "id": 10
+    },
+    {
+      "PersonID": 3,
+      "Node": "Google Street View",
+      "Quote": "",
+      "File": "Image file 03_1",
+      "id": 11
+    },
+    {
+      "PersonID": 3,
+      "Node": "WhatsApp",
+      "Quote": "There's a WhatsApp group for our childcare\u2026 it's a bit\u2026 I don't know what the word is, contentious. Maybe the privacy settings on WhatsApp aren't quite as good as Signal from what I understand. So yes, so some of the parents are really not very happy about photos of their kids getting posted on WhatsApp.",
+      "File": "",
+      "id": 12
+    },
+    {
+      "PersonID": 3,
+      "Node": "Signal",
+      "Quote": "You connect over certain experiences, or people have got, you know, they\u2019re doing renovations themselves, and they appreciate how hard it is and blah, blah, but you know, how worthwhile it is at the same time, or whatever. A friend over in Finland just came third in a biathlon. And that's really nice that she was posting on that, I\u2019m posting home renovation things and something that my kids do, or whatever. it's, you know, it's the whole random selection of whatever is going on for our little group. And, you know, it's manageable, and it's nice, and it's really private and you feel good\u2026 unrestricted about sharing stuff in that kind of group. Because it's so closed.",
+      "File": "",
+      "id": 13
+    },
+    {
+      "PersonID": 3,
+      "Node": "LinkedIn",
+      "Quote": "I'll come and ask for permission for a particular project, if I want to use some images that I did with you on my website, or in LinkedIn, or whatever, like, I'm always really careful around seeking permission, you know, on a project by project basis, and don't just assume that because I've done it for one that I can do it for all the jobs kind of thing. Yeah, so yeah, that's, that's important to me. I try and try and be ethical with all of the different things that I do.",
+      "File": "",
+      "id": 14
+    },
+    {
+      "PersonID": 3,
+      "Node": "Facebook",
+      "Quote": "[I\u2019d] take the cameras out and the drone and stuff and photograph some of the areas I really enjoy going, and share that with other parents and stuff. So yeah, that definitely goes out on Facebook [groups] and various other things (\u2026) There\u2019s a few other parenting kind of websites with information about, you know, the best kind of playground. So I\u2019m like, here, have my virtual tour (\u2026) I\u2019m offering it for free because I think it\u2019s a really great playground and I think more people should know about it. ",
+      "File": "",
+      "id": 15
+    },
+    {
+      "PersonID": 4,
+      "Node": "Family",
+      "Quote": "It feels a bit like you're deleting the memories when you delete the photograph. I don't know. Yeah, I guess when you look back when you're really young, it's hard to remember much besides what you\u2019re photographed in, so just the thought that you might look at it again even once. I guess for myself or like close family or friends, I don't feel that self-conscious about wanting to delete unflattering ones. Like, I don't feel like I need to curate them really. ",
+      "File": "",
+      "id": 16
+    },
+    {
+      "PersonID": 4,
+      "Node": "Print",
+      "Quote": "Maybe a picture of a special place that that person has a connection to. Or that we both have a connection to. Pictures we\u2019ve taken there. Or pictures of people, or me, or other people in common, I guess. Or pictures of animals. ",
+      "File": "",
+      "id": 17
+    },
+    {
+      "PersonID": 4,
+      "Node": "Print",
+      "Quote": "Sometimes for cards for people, like birthday cards or Christmas cards or something, printing a photo. Or we haven't in ages, but sometimes [my partner] and I have just printed photos we had together and then had them out like stuck a couple on the wall on the fridge or something.",
+      "File": "",
+      "id": 18
+    },
+    {
+      "PersonID": 4,
+      "Node": "SMS Text",
+      "Quote": "[I share photos] I guess maybe sometimes just something unusual or like novel happening. Yeah, like, \u2018I want to share this with someone\u2019, or just like connecting on a common interest. Like with the cats, I guess. Or like humour, kind of like just a playful thing back and forth as a way of communicating. ",
+      "File": "",
+      "id": 19
+    },
+    {
+      "PersonID": 4,
+      "Node": "SMS Text",
+      "Quote": "I\u2019m not a very prolific photographer. I probably used to photograph more in the past, but now I don't know, probably just a lot of photographs of the cat. And just like yeah, pretty ordinary things or just photographs of my partner doing stuff or sometimes photographs for work. Not super interesting, or not too prolific.",
+      "File": "",
+      "id": 20
+    },
+    {
+      "PersonID": 4,
+      "Node": "Animals/pets",
+      "Quote": "It\u2019s always the cat. Like, I was away for a night and [my partner] sent me a picture of her and the cat. And I was at my family's house. So I sent a photo back of me with the family cat.",
+      "File": "Image file 04_1",
+      "id": 21
+    },
+    {
+      "PersonID": 4,
+      "Node": "WhatsApp",
+      "Quote": "Often cat photos. Or maybe like photos of myself or something I'm doing. [My partner\u2019s] family has like a, like a kind of family WhatsApp, where they share photos. Just of what people are doing and stuff. Yeah, just pretty everyday stuff.",
+      "File": "",
+      "id": 22
+    },
+    {
+      "PersonID": 5,
+      "Node": "Instagram",
+      "Quote": "I tend to post series because Instagram has like three photos in the grid. So I would post the series, like maybe today, but I will post like three at the same time because they have to go together. I know it might limit the reaction or the likes or whatever. I don't care enough to think about that. So it's based on how many portraits that I have and whether they are nice enough for me to post there. So I will say depends \u2013 it is really not about how often, but more like, why. ",
+      "File": "Image file 05_1",
+      "id": 23
+    },
+    {
+      "PersonID": 5,
+      "Node": "Personal website",
+      "Quote": "Well, I really like film, I really, really, really like film. I started off with a digital. Actually I can\u2019t remember if I got the digital first or the analogue first, but I remember vividly how I got my first analogue camera. It was so funny that I just really wanted to use it all the time to prove\u2026 I guess like it just creates that sort of sense of belonging to the camera. So the images that came out of films just make more sense than the digital one. I feel like I have more love for it, not really control. I am more confident with digital ones. But whenever it comes out of film, it's like \u2018yeah, that's my photos\u2019. If it\u2019s digital it\u2019s like \u2018I don\u2019t think that\u2019s my photos\u2019. I don't know why.",
+      "File": "Image file 05_2",
+      "id": 24
+    },
+    {
+      "PersonID": 5,
+      "Node": "Google Drive",
+      "Quote": "I don't use WhatsApp. But when I send photos to people, because they all come from like\u2026 how do you say that? Like, large format? So I would have to put on Google Drive, and then send them the link. It's much better that way. I think.",
+      "File": "",
+      "id": 25
+    },
+    {
+      "PersonID": 5,
+      "Node": "SMS Text",
+      "Quote": "I don\u2019t send photos to family. We don't talk very much. They do support me, of course, but we never had the tradition of exchanging what we're doing, or what we have. I know, like, when I first moved here, my parents always like, wanted me to tell them what, blah, blah. But if I ever send them something, they would ask me like, are you okay? And I don't know how to answer that. Because I also thought, like, maybe sending this [picture of food] would prove that I'm healthy. But they would, they would have to point out whether it has meat, they would have to criticise something. And they never agree that I'm vegetarian. So yeah, we don't really communicate much just to avoid drama, you know?",
+      "File": "",
+      "id": 26
+    },
+    {
+      "PersonID": 6,
+      "Node": "SMS Text",
+      "Quote": "I respond to photos more than I would just text messages though. Because it\u2019s more of an immediate, visceral reaction, you see something, and you are like \u2018I\u2019m going to actually respond to that\u2019 unlike a block of text.",
+      "File": "",
+      "id": 27
+    },
+    {
+      "PersonID": 6,
+      "Node": "Instagram",
+      "Quote": "As you older and as you go out less, no-one wants to see you eating an eggplant parmigiana on a Tuesday night. Watching the football. It\u2019s not that exciting. ",
+      "File": "",
+      "id": 28
+    },
+    {
+      "PersonID": 6,
+      "Node": "Fun/funny photos",
+      "Quote": "I take a lot of photos of cryptic crossword clues that I find humorous. It\u2019s pretty much if I\u2019m just out and about, because everything I post is just things that I think are funny and that\u2019s about it. So, if I see something that is a bit weird or is strangely worded, I\u2019ll take a photo of it. (...) I don\u2019t even really post that many stereotypical happy snaps of people. And never landscape photos, they don\u2019t interest me at all, like photos of a landmark. I just feel like I\u2019m not a very good photographer and no-one cares to see my amateur photo of something when they can get a very professional photo of that by Googling. Like say I\u2019m at Mt Fuji, you don\u2019t need to see my crap photo of it from 200 metres away on an iPhone camera when you can just look at a better one. That\u2019s why I\u2019d rather just take photos of things that I find funny. ",
+      "File": "Image file 06_1",
+      "id": 29
+    },
+    {
+      "PersonID": 7,
+      "Node": "SMS Text",
+      "Quote": "Generally, if I send images to friends it\u2019s just a meme or a joke, or references to past times. Screenshots. It\u2019s always generally just jokes. Or food with [my partner]. That\u2019s really it. ",
+      "File": "",
+      "id": 30
+    },
+    {
+      "PersonID": 7,
+      "Node": "WhatsApp",
+      "Quote": "The family Whatsapp group is purely photos of family. We have quite a large family and it\u2019s the way we keep in contact because we are spread over the world and so it\u2019s our way of sending photos showing what we are doing daily. So it might just be a selfie of me, or it might be something that I\u2019ve done as an achievement that I want to show them. (...) The family Whatsapp needs to be tame, my family background religion is Islam\u2026 my mother, my brother and his wife\u2026 so I need to be a little bit more tame in what I post in terms of things that won\u2019t offend. ",
+      "File": "",
+      "id": 31
+    },
+    {
+      "PersonID": 7,
+      "Node": "Instagram",
+      "Quote": "Originally, it was a tool to be social, to try and delve into a subculture of society within where I live in the city of Melbourne, to be involved with music, art, skateboarding, when I was younger. The older that I\u2019ve become I\u2019ve sort-of detached myself from that particular scene, because of the mental issues that it creates, the social sort-of aspect. And now, for me, it\u2019s more to be personal. ",
+      "File": "",
+      "id": 32
+    },
+    {
+      "PersonID": 7,
+      "Node": "Instagram",
+      "Quote": "This is pretty much it, just skating and friends and family. And these are the things that matter to me individually, that\u2019s something that I care about. I don\u2019t care if people see and it\u2019s not as cool as it should be. (...) I use Instagram now as a tool for good, to see something I\u2019m interested in, or want to learn. That\u2019s about it.",
+      "File": "",
+      "id": 33
+    },
+    {
+      "PersonID": 8,
+      "Node": "SMS Text",
+      "Quote": "Usually, it\u2019s a prompt to talk about something, or whether it\u2019s sharing a meme, or you\u2019re like, \u2018Look what I did today\u2019, or like, \u2018Let\u2019s do this\u2019, or something. It\u2019s just a way of communicating with friends, I guess.",
+      "File": "",
+      "id": 34
+    },
+    {
+      "PersonID": 8,
+      "Node": "SMS Text",
+      "Quote": "At the moment where I am working, there\u2019s three cats that are there, so I\u2019ll send photos of them to my friends. Or if I\u2019m doing something and then I\u2019m messaging a friend about it, I\u2019ll show them a photo, or also screenshots of memes, or old photos of us.",
+      "File": "",
+      "id": 35
+    },
+    {
+      "PersonID": 8,
+      "Node": "Print",
+      "Quote": "I think, definitely when I\u2019m more involved in creative projects, I\u2019m taking more photos and sharing them, too. I think that\u2019s an important part of my process, is doing that. ",
+      "File": "Image file 08_1",
+      "id": 36
+    },
+    {
+      "PersonID": 9,
+      "Node": "SMS Text",
+      "Quote": "[I send photos to my Mum of] anything that will, you know, give her an idea about what I'm doing. Because I don't get the chance to phone her every day. So it's like, I'll be working \u2013 like today, I just sent her a photo of me at work. (...) Lots of communication between my brothers and I in this thread that we\u2019ve got. This is actually one that's like daily, without fail. It's like, lots of [my brother\u2019s] kids. And because they are in a different time zone, I just wake up to shitloads of photos. Which is great. ",
+      "File": "",
+      "id": 37
+    },
+    {
+      "PersonID": 9,
+      "Node": "HelloTalk",
+      "Quote": "There's usually humour involved. Yes, usually just to make some dumb joke or something. So I wouldn't really consider myself someone who takes photography very seriously. Especially\u2013 well, my own photography very seriously. Yeah, I guess it's just a form of you know, of communication with friends that's pretty light-hearted. Doesn't mean anything. It's not personal. ",
+      "File": "",
+      "id": 38
+    },
+    {
+      "PersonID": 9,
+      "Node": "Hardrive storage",
+      "Quote": "It'll be something like someone I know knows that I keep a backlog of music and a backlog of photos and someone will be requesting something like \u2018Oh, do you have a photo of this?\u2019 and more often than not I do. Especially if it's to do with like, yeah, old music, all band stuff.",
+      "File": "",
+      "id": 39
+    },
+    {
+      "PersonID": 9,
+      "Node": "Instagram",
+      "Quote": "[I use it] Because it's temporary and it's only there for 24 hours. And I do like the whole idea of it, and the way that people use it. I mean, it can be anything\u2026 just as a way of keeping people up to date with what you're doing in your daily routines. (...) I guess maybe in a small way, depending on what it is I'm posting, I am looking for validation in some weird way. Especially, for example, if I take a minute recording of me playing guitar, which I've done a little bit, I guess there might be a small part of me that wants a reply, but just like, I want to know that someone has seen that.",
+      "File": "",
+      "id": 40
+    },
+    {
+      "PersonID": 9,
+      "Node": "Instagram",
+      "Quote": "I'm not consciously like, \u2018I'm going to only post animation or music\u2019 there. That's not a conscious, or strict rule or anything like that. It probably started as a few things, and then built up to that. But I guess, because when I first had Instagram, years ago, I did post my photos on there. (...) I felt like one day, I was looking back through all the posts, right back to my very first Instagram photo that I posted online. And I thought that it was irrelevant, and kind of like, kind of cringy. And, I don't know, I kind of felt maybe a little bit embarrassed of how far back you could just go. Not that anyone's even looking at that stuff anyway, but just even for myself, I'd look back and be like, that just kind of reminds me of a certain time in my life and I don't know why I have this here. So I just deleted them all.  ",
+      "File": "",
+      "id": 41
+    },
+    {
+      "PersonID": 9,
+      "Node": "Camera Roll",
+      "Quote": "I was laying down in the park when we just came out of lockdown. And I was waiting for people to show up for drinks. And I was laying on my back. And I was looking up and I was like, I don't remember the last time I've done this, and it looked much more impressive in person. But I was like, I'm gonna take some photos of this.",
+      "File": "Image file 09_1",
+      "id": 42
+    },
+    {
+      "PersonID": 10,
+      "Node": "Family",
+      "Quote": "I send a lot of photos of my housemate\u2019s dog. A lot of photos of animals to my nieces and nephews, just as a way of connecting with them. And again, just letting them know that I'm thinking of them.",
+      "File": "Image file 10_1",
+      "id": 43
+    },
+    {
+      "PersonID": 10,
+      "Node": "Print",
+      "Quote": "I have this one photo album that after my Mum passed away, my grade one teacher gave to me at the funeral, which was very lovely. And I put lots of photos of my Mum and myself in that album, which I get out occasionally.",
+      "File": "Image file 10_2",
+      "id": 44
+    },
+    {
+      "PersonID": 10,
+      "Node": "Close friends",
+      "Quote": "Rather than writing a text message, sometimes it's nice to show that you're thinking of someone, just capturing a moment, like maybe sitting in the park. And I've got some friends who I don't see very often, or they live further away, and we sometimes send like a little photo book [digitally, via SMS] of our world recently. And that's a nice way to connect. ",
+      "File": "",
+      "id": 45
+    },
+    {
+      "PersonID": 10,
+      "Node": "Instagram",
+      "Quote": "With Instagram, you expect that kind of instant gratification because it goes out and then goes to other people's platforms. So I think for that, there is that sense of urgency. Like, \u2018has anyone seen it?\u2019. And if you don't get a response immediately, you\u2019re like \u2018oh no-one liked the photo!\u2019.",
+      "File": "",
+      "id": 46
+    },
+    {
+      "PersonID": 10,
+      "Node": "Personal notes",
+      "Quote": "I feel like when I'm at the beach, I take a lot more photos than I normally would (\u2026) When life is really hectic, and I\u2019m working and just very much in the city, it's nice to just flick through them and be like \u2018I remember that time and it's nice to go back to\u2019.  ",
+      "File": "Image file 10_3",
+      "id": 47
+    },
+    {
+      "PersonID": 10,
+      "Node": "Instagram",
+      "Quote": "This is the first lockdown. And it was my birthday. We had just gone into lockdown and so I obviously spent it myself because I was living alone at that point. My housemate had just moved over to Scotland because their husband was over there \u2013 they had left and then the airport's closed. So I guess I was just having a bit of a reflection and I went on a walk in the bush and it was a beautiful sunset.",
+      "File": "Image file 10_4",
+      "id": 48
+    },
+    {
+      "PersonID": 11,
+      "Node": "Instagram",
+      "Quote": "On Instagram\u2026 I started one and I put one exhibition in. And then I was just overcome by a great tiredness.",
+      "File": "",
+      "id": 49
+    },
+    {
+      "PersonID": 11,
+      "Node": "Print",
+      "Quote": "When I visit my family, I\u2019ll sometimes show them stuff, ask them if there's anything they want. And at one stage, as a Christmas gift, I put together an album. And I got really, really high-quality copies done. So there were duplicate albums, and I gave everybody one. People were really delighted with that. But that was quite a long time ago now so I could well do another one. Except it less interests me because there was so much about our shared life together. My family all lives interstate so my people that I'm close to here are friends. And it seems to be less of an issue with friends in some way. Apart from when they come and take part in various things. And I started this delightful process of giving them images of themselves in it.",
+      "File": "",
+      "id": 50
+    },
+    {
+      "PersonID": 12,
+      "Node": "Twitter",
+      "Quote": "This is what I shared a bit because it was funny seeing people's reactions to me holding a huntsman spider. ",
+      "File": "Insert image 12_1",
+      "id": 51
+    },
+    {
+      "PersonID": 12,
+      "Node": "Google Drive",
+      "Quote": "And then these are the kinds of photos I was talking about, the stupid ones when I'm with friends and fucking with cameras to make people look silly. It's an angle, a wide-angle lens really close-up. (...) Anyway, like all of those photos I uploaded to a [Google] doc because people find them funny and so they could take them [from the Doc] if they wanted.",
+      "File": "",
+      "id": 52
+    },
+    {
+      "PersonID": 12,
+      "Node": "Facebook Messenger",
+      "Quote": "Honestly, I'm probably one of the least photo centric young people you could have found, I don't use my photos for a whole lot. I\u2019ll occasionally throw up some on social media. Like, if it's an event with friends or something, I\u2019ll take silly photos of them, and then send them to them. (...) Occasionally, it might just be me sending a quick, zoomed-in snap on my face to capture some kind of emotion. ",
+      "File": "",
+      "id": 53
+    },
+    {
+      "PersonID": 12,
+      "Node": "Discord",
+      "Quote": "On Discord, half the time when I'm sending a photo I'm already in a voice chat with the person or the people I'm intending to see it. (...) Occasionally, you get these streams of photos that have no context whatsoever. And those are usually from when they were talking in person about something, and they'd be sending stuff to this chat. But as you can see the vast majority aren\u2019t original photos, they\u2019re linking other stuff, clipping other stuff, whatever it is. ",
+      "File": "Insert image 12_2",
+      "id": 54
+    },
+    {
+      "PersonID": 13,
+      "Node": "Family",
+      "Quote": "Here\u2019s the Chanel [exhibition] (\u2026) I thought [my daughter-in-law] would love it. That\u2019s why I took the photos, I sent them to [her].",
+      "File": "",
+      "id": 55
+    },
+    {
+      "PersonID": 13,
+      "Node": "Friends",
+      "Quote": "I\u2019ve got a dear friend in America in Seattle. She\u2019s well, young to me, she\u2019s 66. She goes kayaking, in the foothills cross country skiing, Seattle must be beautiful. And the Olympic Peninsula is nearby. She had a hiking holiday before the Winter, with two friends. It was a waterfall she sent me, lovely photos. ",
+      "File": "Insert image 13_1",
+      "id": 56
+    },
+    {
+      "PersonID": 14,
+      "Node": "Instagram",
+      "Quote": "I think that I've always felt that Facebook is probably perceived more for older people. I don't think that there's anything on Facebook that YouTube or Instagram doesn't have. So it's not something that I've ever considered using that much. Snapchat, you know, I can just text my friends. I don't need to use Snapchat. So I've never thought that was worthwhile doing. But Instagram, I've always liked taking pictures. So if I take a nice photo, I'll put it up on Instagram. And, you know, like I said, my family is on Instagram. So they will see those photos and it's a way of sharing them. And they are mostly travel photos or what I\u2019m up to or something.",
+      "File": "",
+      "id": 57
+    },
+    {
+      "PersonID": 14,
+      "Node": "Family",
+      "Quote": "I\u2019d say the vast majority of the photos I would send is if I was showing my parents where I am and what I\u2019m doing. If I\u2019ve gone down to the beach or something, I\u2019ll show them a photo to keep them updated. Or if I'm out with some friends, I might send some other friends a picture of who I'm with. But I think that's about it. And then, I don't know if I send other people\u2019s photos around as much, but certainly like sports graphics or something, if I'm talking with my friends about those sorts of things.",
+      "File": "Insert image 14_1",
+      "id": 58
+    },
+    {
+      "PersonID": 14,
+      "Node": "Friends",
+      "Quote": "I think a lot of my friends would do that [show each other photos in person]. If I was saying \u2018oh, the other day I saw this thing\u2019, and I showed them a picture I took of it, or something. Yeah, that\u2019s the main reason I probably take photos, so I can share what I've seen with people.",
+      "File": "",
+      "id": 59
+    },
+    {
+      "PersonID": 15,
+      "Node": "Email",
+      "Quote": "To communicate something that needs to be done or to visually show something or, you know, if I'm buying something or communicating with tradesman, and I've got to do a lot of it over the phone. So I'm sending photos and showing them spaces and things, rather than them coming over.",
+      "File": "",
+      "id": 60
+    },
+    {
+      "PersonID": 15,
+      "Node": "Instagram",
+      "Quote": "I do have a Twitter account and an Instagram account, which I barely use. But actually, when I was sort of actively using it, again, I was visiting friends in New York. And so at that time, they were following me, they're still following me. But I was travelling, so I'd post travel photos up so they could see them on my Instagram account. But as a rule, that would be a rare event. ",
+      "File": "",
+      "id": 61
+    },
+    {
+      "PersonID": 15,
+      "Node": "Hardrive storage",
+      "Quote": "I have a whole folder of photos I have to print off. I actually have to because my mother keeps at me. Some of our trips, which she doesn't have access to. So it's on that hard drive over there. ",
+      "File": "",
+      "id": 62
+    },
+    {
+      "PersonID": 15,
+      "Node": "Friends",
+      "Quote": "I sent my friend an SMS when I was in Aldi. Aldi \u2013 It's my guilty pleasure. I go to Aldi, and I like that section with all the stuff in the middle, right? And I sent this [photo of a blow-up sumo suit], because I actually really want this. I sent it her through text message. And it was I thought it was the best thing, right? And I like sending the stuff to [my friend]. This was on sale. And I sent it to her. And I told her that I want one of these for my birthday, and Aldi has them. ",
+      "File": "",
+      "id": 63
+    },
+    {
+      "PersonID": 15,
+      "Node": "Mum",
+      "Quote": "With my mother, we use it as a form of functional communication. That tends to be the main reason why I'm sharing photos. And then all the other stuff, you know, when we're out having coffee, a lot of the time I just keep to myself, but then if we're chatting about something, and I'll say, \u2018 remember when we went there\u2019, and I'll send the photo. So it could be a reminder of something or I just didn't give it to her at the time, and then we're chatting about it, and I'm flicking through the photos, and then I'll send it to her. ",
+      "File": "",
+      "id": 64
+    },
+    {
+      "PersonID": 16,
+      "Node": "Dropbox",
+      "Quote": "Someone asked me for a photo that I took and put on Instagram recently so I went back to the Dropbox to find it. And because I'm not very\u2026 well, I'm getting better now at dating the albums that I save, so that this would be easier. But back then I didn't used to do that. So I had to open every single album to find the one that I was referring to.",
+      "File": "",
+      "id": 65
+    },
+    {
+      "PersonID": 16,
+      "Node": "Facebook",
+      "Quote": "There's something about the mode that I'm in when I'm looking through them \u2013 it is usually still in that mode of \u2018I've got to quickly check through my Facebook photos, because my boss added me on Facebook\u2019, so I have to make sure there's nothing in here that incriminates me. That's the only reason I ever flipped back through the Facebook photos really. And then sometimes you might get lost in a memory but there's always this layer of it being publicly perceived and it being a representation of you that I think makes you in a different mindset when you're looking, as compared to when you\u2019re just flipping through photo album.",
+      "File": "",
+      "id": 66
+    },
+    {
+      "PersonID": 16,
+      "Node": "Instagram",
+      "Quote": "The grid is what people who search you can look at. And especially because in a sense of being a published author, I know that there are people who search my name and will look at that profile, maybe because they've read my book or heard of me. So there's a level of understanding of the way that that's curated and the image it gives of me. If it's just, for example, me wanting to share that I grew some tomatoes in my garden, I don't really think someone who sought out to look at me, especially for my book, would care about that. So there's a bit of consideration with how pleasing, important, meaningful and deep content is on the grid. Whereas in the stories I will post frivolous things, less serious things, things like that.",
+      "File": "Insert image 16_1",
+      "id": 67
+    },
+    {
+      "PersonID": 16,
+      "Node": "Instagram",
+      "Quote": "I expect friends to like posts that I put on Instagram straightaway. Because it\u2019s never not happened. So if it didn\u2019t happen, I\u2019d think that everyone hates me or something [laughs]. ",
+      "File": "",
+      "id": 68
+    },
+    {
+      "PersonID": 16,
+      "Node": "Family",
+      "Quote": "If it's of my niece and nephew, I'm likely to share it with my family just because everyone loves looking at them. ",
+      "File": "",
+      "id": 69
+    },
+    {
+      "PersonID": 16,
+      "Node": "Friends",
+      "Quote": "It could be if it's been a special occasion, and I've taken nice photos, or funny photos, with friends, so I\u2019ll send them to share them with the people in them. But it could also be if I saw a bit of street graffiti that I thought was really funny, I might take a photo of it and just send it to a friend to be like \u2018lol\u2019 or like\u2026 there\u2019s like a really ugly clothes shop that one of my friends used to work out and hated. Whenever I walk past it, I always take a photo of it and send it to her. Things like that, that definitely aren't like photography in my mind, as much as they are like data or something.",
+      "File": "",
+      "id": 70
+    },
+    {
+      "PersonID": 17,
+      "Node": "Friends",
+      "Quote": "I took a photo of the kitchen and the garden to show my friend. I went to Greece and took photos with me to show my friend. My very good friend, since little girls, we grew up together. ",
+      "File": "",
+      "id": 71
+    },
+    {
+      "PersonID": 17,
+      "Node": "Print",
+      "Quote": "Over there are all the grandchildren. They frame the photos and then give them to me as a gift. ",
+      "File": "",
+      "id": 72
+    },
+    {
+      "PersonID": 18,
+      "Node": "SMS Text",
+      "Quote": "If I have to display my garden adventures, I do that. You see I sent here that I\u2019ve got my tomatoes, that\u2019s last week. And this is my new modem so I shared [a photo of the modem] with my son to keep the details of the modem, because he has to connect it, not me. I\u2019m not that expert. ",
+      "File": "",
+      "id": 73
+    },
+    {
+      "PersonID": 18,
+      "Node": "Family",
+      "Quote": "I tell you what, sometimes he sends me a picture of \u2013 where my village is there is a big mountain that is very famous \u2013 he sends me a photo of the first snow on the mountain. And straightaway I remember when I was a young one and to going to high school when I was looking at the mountain on this kind of day and knew I was going to get cold. (...) All the Ancient Spartans used to go there and exercise, and it\u2019s next to my village, at the edge of my village. And that\u2019s where I learnt to dive and swim. And they send pictures of the olives they are picking. It\u2019s a way of bringing me back all my memories.",
+      "File": "",
+      "id": 74
+    },
+    {
+      "PersonID": 19,
+      "Node": "Facebook Messenger",
+      "Quote": "My private messages are much more unfiltered. And there's no pressure to kind of create a good photo or interesting photo. ",
+      "File": "",
+      "id": 75
+    },
+    {
+      "PersonID": 19,
+      "Node": "Partner",
+      "Quote": "To my partner, I tend to take photos when I wake up straight away. That's just like a funny thing that I like doing because, one, no one looks good waking up. And two, it's kind of fun taking a photo when you're half asleep. And you know, the act of trying to be a photographer when your limbs don't work, I think is quite funny. And I've gotten really funny photos out of it. So that's kind of a regular thing that I like doing.",
+      "File": "",
+      "id": 76
+    },
+    {
+      "PersonID": 19,
+      "Node": "Instagram",
+      "Quote": "So it's a lot more, I guess, accessible for me to, you know, reach family, friends, but also to reach businesses that I'm interested in, like creative artists and organisations that I'm interested in. And also, I guess it's really simple to use. I stopped using Snapchat when you could send direct messages on Instagram, and then they [Instagram] got filters it kind of defeated the purpose of Snapchat, when that feature was on Instagram as well. And you know, the story option on Instagram, I think, is also a feature of Snapchat, that I don\u2019t need in Snapchat anymore because it's on Instagram. And I think the story, the story option on Instagram is really kind of appealing for a lot of people, including myself because I think there's a little bit of pressure with posting a post on Instagram, rather than just a story where it's like, temporary, and you can kind of, you know, put photos and information in, in a way that you don't have to put as much effort as posting a post that's like permanent on your Instagram profile.",
+      "File": "",
+      "id": 77
+    },
+    {
+      "PersonID": 19,
+      "Node": "WhatsApp",
+      "Quote": "If I cook something that looks delicious, I'll send it to my family. Another example, today, I was talking to my friends about potential costume ideas for parties. So we, you know, send each other ideas on what to wear, where to buy stuff, whether that's a screenshot of a website, or, you know, a photo that I that I took. So it's much more random and it's much more connected to what I'm doing right now, rather than potentially posting something that happened a week ago, two weeks ago, the night before. These private messages are something that I'm sending as it's happening. ",
+      "File": "",
+      "id": 78
+    },
+    {
+      "PersonID": 20,
+      "Node": "Facebook Messenger",
+      "Quote": "When I\u2019m sharing photos I really like of my son with his mum or with my family, I, yeah, expect a response, I guess, an acknowledgment of like, \u201cThat\u2019s a nice photo.\u201dAnd it\u2019s the same with Facebook because it\u2019s sporadic family centric photos, so it\u2019s nice to hear from people who aren\u2019t in your direct life anymore or in different parts of the world and see how they respond to the imagery you\u2019re sharing or the snapshot of your private life you\u2019re sharing.",
+      "File": "",
+      "id": 79
+    },
+    {
+      "PersonID": 20,
+      "Node": "Family",
+      "Quote": "I\u2019m pretty keen to document his growth and sometimes during the week, I don\u2019t do that because we\u2019re just trying to get through day-to-day life. But on the weekends or when we\u2019re going away, I feel like there\u2019s space to slow down and pull the camera out and capture moments.",
+      "File": "",
+      "id": 80
+    },
+    {
+      "PersonID": 20,
+      "Node": "Instagram",
+      "Quote": "I think Instagram is quite strategic and business focus, so there\u2019ll be at a level of analysis after the fact. You\u2019re like, \u201cWhy didn\u2019t this image get traction as much as another image?\u201d",
+      "File": "",
+      "id": 81
+    },
+    {
+      "PersonID": 20,
+      "Node": "Instagram",
+      "Quote": "I have two Instagram pages, one is geared towards my photography practice as a working photographer. So I put up jobs, highlights from jobs (...) And then the other public profile will be also work related, more photos of me or things I\u2019ve been doing in my other work as a performer.",
+      "File": "",
+      "id": 82
+    },
+    {
+      "PersonID": 20,
+      "Node": "SMS Text",
+      "Quote": "With my partner, I\u2019d send just random moments of the day \u2013 the sky, nice light, any pictures that support the conversation we\u2019re already having. (...) Light, I always take photos of the morning light usually from my bedroom of what my windows are doing and that can go to partner or particular friends who I\u2019ve talked about that with before. What else is a daily \u2013 it\u2019s always light stuff. I\u2019ll take photos of a wall that I\u2019m walking past because the light\u2019s hitting it in an interesting way or there\u2019s an interesting shadow or if there\u2019s colour.",
+      "File": "Insert image 20_1",
+      "id": 83
+    },
+    {
+      "PersonID": 21,
+      "Node": "Snapchat",
+      "Quote": "I have a Snapchat, which I used a little bit when my daughter was first born, to send a few photos to other friends who had a baby around the same time. I haven\u2019t used it in awhile. I still get the occasional one from one friend. But yeah, I pretty much only have one or two people who I would send stuff to on Snapchat. For whatever reason, they\u2019re just the people that use it. I\u2019m not cool enough for that anymore. ",
+      "File": "",
+      "id": 84
+    },
+    {
+      "PersonID": 21,
+      "Node": "Facebook",
+      "Quote": "I think it was maybe when I was younger there was a bit of a culture of... after a trip I would go on, there would then be an album that would be uploaded to social media of that trip, which I liked then and still kind of like now, looking back through them. But then there were a couple of trips where that didn't happen, I think just because the friends I was with weren\u2019t big sharers on social media anyway. And then it just sort-of dropped out of the thought process. Maybe because of the stuff I was doing I'd been doing for years by that point and I didn't feel like I needed to share it as much. Early on in my outdoor adventuring days, I was pretty keen on letting the world know how rad I was [laughs]. Also, I wasn't doing stuff that was as impressive as when I was younger either. Yeah, it didn't feel as remarkable. And yeah, probably also just the friends I was with, it wasn't as much of a thing. And then it just sort-of faded into nothing. And then there did come a point, especially when my daughter came along, where it sort-of became a conscious decision, as opposed to just being lazy.",
+      "File": "Insert image 21_1",
+      "id": 85
+    },
+    {
+      "PersonID": 21,
+      "Node": "SMS Text",
+      "Quote": "I liked the fact that on an iMessage you send them at full res with the live photo as well. I often send photos to Mum on iMessage like that, because it's better quality and you can see that live element to it as well. ",
+      "File": "",
+      "id": 86
+    },
+    {
+      "PersonID": 21,
+      "Node": "iCloud",
+      "Quote": "It's interesting, like the hierarchy of what gets shared. So yeah, for the shared album that my partner and I have of our daughter, it's everything. And then going down to the family WhatsApp group, it's all of the highlights. And then I suppose below that would be what I would consider sharing on social media, which so far has been nothing, and I haven't ruled it out completely. We've thought about doing Instagram stories to a close friends group. So I've actually made a group \u2013 I've gone through and made the group, I just haven't put anything on there yet. So that would be stuff that would be further down the priority list that would then go out to that, that would be a curation of the curation.",
+      "File": "",
+      "id": 87
+    },
+    {
+      "PersonID": 22,
+      "Node": "iCloud",
+      "Quote": "It's every photo of our daughter on either of our phones, we upload to that shared folder, so that we have access to each other's photos. And that's just for us.",
+      "File": "",
+      "id": 88
+    },
+    {
+      "PersonID": 22,
+      "Node": "Instagram",
+      "Quote": "Instagram... I used to use it differently, which was probably when I would upload things, particularly after I\u2019d been travelling. I would upload photos after trips. But now I guess my thought process is I don't feel the need to do it. And sometimes I think I wish I would do it. But when it comes around to doing it, I sort of... I don\u2019t know. [It\u2019s] a little bit of laziness and a little bit of that's something for me not for everyone else. I don't feel the need to publicize my photos, especially to people that I don't know. So now I use Instagram for mainly looking at other people's stories and see what other people are doing. ",
+      "File": "Image file 22_1",
+      "id": 89
+    },
+    {
+      "PersonID": 22,
+      "Node": "WhatsApp",
+      "Quote": "When I\u2019m sharing photos, it\u2019s to the immediate family through the WhatsApp group. And then I guess there's our friends WhatsApp group. They're probably the only platforms, other than just sending a personalised text message to someone with some photos in it, which I also do. Is there a pattern? I don't know. Like, sometimes it'll be \u2018Well, we haven't shared any photos in a while\u2019. So I'll just put a few up there because it updates the grandparents and makes them feel like they're watching our daughter grow and that sort of thing. It\u2019s when I have a pocket of time, and probably more incentivized by \u2018oh, we haven\u2019t shared anything in awhile and the people on the other end might want to know what my daughter is up to\u2019. ",
+      "File": "",
+      "id": 90
+    },
+    {
+      "PersonID": 22,
+      "Node": "Print",
+      "Quote": "The other reason that I've printed photos \u2013 and just a handful of them, ones of my daughter \u2013 is because we've done a baby book of my daughter. And so rather than the baby books that you can buy that say \u2018these are the milestones\u2019, and \u2018this is what she was doing at this age\u2019, and \u2018first word\u2019, or things like that, we just got a blank book, blank pages. And so we're just filling that in as we go along.",
+      "File": "",
+      "id": 91
+    },
+    {
+      "PersonID": 23,
+      "Node": "WhatsApp",
+      "Quote": "",
+      "File": "Image file 23_1",
+      "id": 92
+    },
+    {
+      "PersonID": 23,
+      "Node": "Print",
+      "Quote": "If you\u2019re shooting four by five it takes you an hour to take a photo. And so maybe I've shot 50 [large format] photos in the last couple of years, whereas I\u2019ve probably shot 50 photos on my phone in the last week or so. But timewise, I probably used the large format the most I would say, and mostly outdoors, just because the film needs quite a lot of light, and I don't have a lighting setup with me at the moment. So yeah, mostly outdoors, landscape, portraiture, that sort of thing.",
+      "File": "Image file 23_2",
+      "id": 93
+    },
+    {
+      "PersonID": 23,
+      "Node": "SMS Text",
+      "Quote": "Even as mundane as being in the supermarket or something and seeing a good deal. And, I don\u2019t know, maybe I\u2019ll send a photo to [my partner] just being like \u2018oh, we should get some of these\u2019 and taking a photo, because it\u2019s easier than explaining what it is. You\u2019re actually seeing. Yeah, you may as well just take a photo and send it, it sort of says it all. ",
+      "File": "",
+      "id": 94
+    },
+    {
+      "PersonID": 23,
+      "Node": "Instagram",
+      "Quote": "I have shot a lot of, I guess documentary style, street photography type stuff. So\u2026 I don\u2019t know what you\u2019d call it. I guess \u2018day in the life\u2019\u2026 sort of, not candid, but observational. That's what I would shoot for enjoyment. (...) I've spent a fair bit of time on Instagram in my working life, and that might potentially have put me off doing my own thing, because if I've already spent two hours on it on the day, why would I? I\u2019m probably not going to feel like doing much more. But Instagram is really becoming like, a work tool, more and more, I think. ",
+      "File": "Image file 23_3",
+      "id": 95
+    },
+    {
+      "PersonID": 24,
+      "Node": "WhatsApp",
+      "Quote": "[My niece] goes away and then we see her traveling through photos, because she\u2019s sending it through WhatsApp. And then we told her, you better write the name of the place because there\u2019s the photo, but we were trying to guess \u2013 now where\u2019s that? Where are you? And so on. I suppose that\u2019s the advantage of technology, in a way, through photography, by them sending you that image, you\u2019re traveling with them. Indirectly, you are sort of enjoying\u2026 However, it takes away them coming back and showing us the photo again, because you\u2019ve already seen it. ",
+      "File": "",
+      "id": 96
+    },
+    {
+      "PersonID": 24,
+      "Node": "WhatsApp",
+      "Quote": "Oh when we went in lockdown the cakes, sharing food, we will photograph whatever and then we will send it through WhatsApp to share it, and then they would send back. (\u2026) So we will share the recipes (\u2026) then they will send the photo of the food. ",
+      "File": "",
+      "id": 97
+    },
+    {
+      "PersonID": 25,
+      "Node": "WhatsApp",
+      "Quote": "They [elderly parents] will go on WhatsApp, but we haven\u2019t got them in on conversations [group chat], the rapid stuff, because they were over analysing stuff at times (\u2026) somebody might have sent a joke or whatever it was, and you\u2019d have to explain all the time.",
+      "File": "",
+      "id": 98
+    },
+    {
+      "PersonID": 25,
+      "Node": "Family",
+      "Quote": "Photo family snaps, something that\u2019s a record photo, that [photo] was a nice family picnic on a picnic blanket, that\u2019s been shared with other family who weren\u2019t there. ",
+      "File": "",
+      "id": 99
+    },
+    {
+      "PersonID": 26,
+      "Node": "WhatsApp",
+      "Quote": "On my family chat it\u2019s pretty much just photos and a little bit of message. So we just send each other photos of what\u2019s going on in our lives (...) it\u2019s all nephew, dog, nephew, dog, renovations. Some food. I wouldn\u2019t say there\u2019s actually much else on this chat [laughs].",
+      "File": "Image file 26_1",
+      "id": 100
+    },
+    {
+      "PersonID": 26,
+      "Node": "SMS Text",
+      "Quote": "[I like texting] because it\u2019s just going straight to one person. And I know that photo was for that person to see, as opposed to for everyone to see. It\u2019s like I\u2019ve taken this photo for you.",
+      "File": "",
+      "id": 101
+    },
+    {
+      "PersonID": 26,
+      "Node": "Facebook Messenger",
+      "Quote": "Responding to like, questions like, \u2018How are you, what's been happening?\u2019 I can\u2019t be bothered writing what\u2019s been happening. I\u2019d rather see them or just send them a photo of like, \u2018Oh, I've just been doing this\u2019 or something.",
+      "File": "",
+      "id": 102
+    },
+    {
+      "PersonID": 26,
+      "Node": "Instagram",
+      "Quote": "I used to make photos for sharing, I used to really get into the, \u2018oh, I'm going to take an Instagram photo, because I've got this event and I want to get the perfect picture for this\u2019. But now, it's just if a nice photo has been taken, and I'm like, \u2018 Oh, I'd love to put that up and show that to my friends and family who are online\u2019, then I'll do that. But that decision comes after now, though it didn\u2019t when I was a little bit younger. ",
+      "File": "Image file 26_2",
+      "id": 103
+    },
+    {
+      "PersonID": 26,
+      "Node": "Print",
+      "Quote": "Places where I've taken these photos would be at a birthday party or at Christmas, or when we went away. A few were taken during lockdown. They're just like little moments that I really want to remember, or people who I want up on my wall.",
+      "File": "",
+      "id": 104
+    }
+  ]
+}
