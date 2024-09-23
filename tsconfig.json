@@ -15,6 +15,7 @@
     "src/**/*.tsx",
     "src/**/*.vue"
   ],
+  "exclude": ["src/**/__tests__/*", "./dist/**/*"],
   "files": [],
   "references": [
     {

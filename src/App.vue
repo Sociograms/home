@@ -12,7 +12,7 @@
   </main>
 </template>
 
-<script setup>
+<script setup lang="ts">
 import { onMounted, computed } from "vue";
 import SociogramCard from "@/components/SociogramCard.vue";
 import useNodes from "@/composables/useNodes";
