@@ -1,3 +1,3 @@
 <template>
-  <h1>Error: Node not found, please return to home page</h1>
+  <h1>There is no node selected, please choose a node in the diagram above</h1>
 </template>

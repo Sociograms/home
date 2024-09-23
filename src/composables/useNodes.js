@@ -9,13 +9,12 @@ const nodesLoading = ref(false);
 function fetchData() {
   nodesLoading.value = true;
 
-  console.log('fetch data');
+  console.log("fetch data");
   nodes.value = alldata.nodes;
   edges.value = alldata.edges;
   quotes.value = alldata.quotes;
 
   nodesLoading.value = false;
-
 }
 
 export default function useNodes() {
